@@ -1,1 +1,0 @@
-(self.webpackChunksymmetry=self.webpackChunksymmetry||[]).push([[113],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/style-guide/blog/welcome"},{"title":"Hello","permalink":"/style-guide/blog/hello-world"},{"title":"Hola","permalink":"/style-guide/blog/hola"}]}')}}]);
