@@ -1,17 +1,17 @@
 ---
-sidebar_position: 8
+sidebar_position: 7
 ---
 
 # Glossary
 
-AAPI
-ADHD/ADD
-able-bodied
-accent marks
-accessible
-addiction
-African American
-Afro-Caribbean
+AAPI<br>
+ADHD/ADD<br>
+able-bodied<br>
+accent marks<br>
+accessible<br>
+addiction<br>
+African American<br>
+Afro-Caribbean<br>
 Afro-Latino
 agender
 aging
