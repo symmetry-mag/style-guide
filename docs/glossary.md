@@ -5,8 +5,8 @@ sidebar_position: 7
 
 # Glossary
 
-AAPI<br>
-ADHD/ADD<br>
+AAPI  
+ADHD/ADD  
 able-bodied<br>
 accent marks<br>
 accessible<br>
