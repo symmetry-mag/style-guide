@@ -4,7 +4,7 @@ sidebar_label: Introduction
 slug: /
 ---
 
-# Symmetry style guide: Writing about people with dignity
+# Symmetry style guide: Writing about people with dignity (test)
 
 *by Kathryn Jepsen, last updated 05/17/21*
 
