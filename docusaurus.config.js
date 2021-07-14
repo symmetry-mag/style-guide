@@ -35,7 +35,6 @@ module.exports = {
       style: 'dark',
       links: [
         {
-        title: '&nbsp;',
         items: [
           {
             label: 'Terms of Use',
