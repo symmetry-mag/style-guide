@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Writing about culture, ethnicity and race
 
-This section of the style guide is meant to help writers respectfully and accurately cover subjects related to culture, ethnicity and race. These issues won’t always be relevant in an article, but when they are, it’s important to write about them with care.
+This section of the style guide is meant to help writers respectfully and accurately cover subjects related to culture, ethnicity and race. These topics won’t always be relevant in an article, but when they are, it’s important to write about them with care.
 
 
 
@@ -60,13 +60,14 @@ The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/race-related-cover
 
 It’s important to be specific when talking about racism. AP says: “The terms *systemic racism*, *structural racism* and *institutional racism* refer to social, political and institutional systems and cultures that contribute to racial inequality in areas such as employment, health care, housing, the criminal justice system and education.” The guide advises using these specific terms rather than shortening them to just *racism*.
 
-As opposed to describing individuals as *racist*, AP recommends describing specific words or actions (or practices or policies) as *racist*—or, if it’s more appropriate, “*xenophobic*, *bigoted*, *biased*, *nativist*, *racially divisive*, or in some cases, simply *racial*.” AP advises against using terms such as “*racially charged*, *racially motivated* or *racially tinged*, euphemisms which convey little meaning.” It also recommends writers “[p]rovide context and historical perspective when appropriate to help convey the impact or implications of the words or actions.”
+As opposed to describing individuals as *racist*, AP recommends describing specific words or actions (or practices or policies) as *racist*&mdash;or, if it’s more appropriate, “*xenophobic*, *bigoted*, *biased*, *nativist*, *racially divisive*, or in some cases, simply *racial*.” AP advises against using terms such as “*racially charged*, *racially motivated* or *racially tinged*, euphemisms which convey little meaning.” It also recommends writers “[p]rovide context and historical perspective when appropriate to help convey the impact or implications of the words or actions.”
 
 
 
 
 ## Style guide
 
+This is a selection of more specific terms. You can find many additional entries in the guides referenced.
 
 ### antisemitism
 
@@ -74,12 +75,12 @@ The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/antisemitism-n-ant
 
 The [International Holocaust Remembrance Alliance](https://www.holocaustremembrance.com/antisemitism/spelling-antisemitism) explains: “The philological term ‘Semitic’ referred to a family of languages originating in the Middle East whose descendant languages today are spoken by millions of people mostly across Western Asia and North Africa. Following this semantic logic, the conjunction of the prefix ‘anti’ with ‘Semitism’ indicates antisemitism as referring to all people who speak Semitic languages or to all those classified as ‘Semites’. The term has, however, since its inception referred to prejudice against Jews alone.”
 
-According to the AP Stylebook, the term “was coined in the 19th century by the German writer Wilhelm Marr, who opposed efforts to extend the full rights of German citizenship to Jews. He asserted that Jews were Semites — descended from the Semitic peoples of the Middle East and thus racially different from (and threatening to) Germany’s Aryans.” 
+According to the *AP Stylebook*, the term “was coined in the 19th century by the German writer Wilhelm Marr, who opposed efforts to extend the full rights of German citizenship to Jews. He asserted that Jews were Semites — descended from the Semitic peoples of the Middle East and thus racially different from (and threatening to) Germany’s Aryans.” 
 
 
 ### Asian
 
-[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/Asian) defines Asian as “of, relating to, or characteristic of the continent of Asia or its people.” 
+[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/Asian) defines *Asian* as “of, relating to, or characteristic of the continent of Asia or its people.” 
 
 But in its guide, [Covering Asia and Asian Americans](https://aaja.org/2020/11/30/covering-asia-and-asian-americans/), the Asian American Journalists Association points out that the meaning of the term varies: “In some usage, chiefly British, ‘Asian’ refers to Indians, Pakistanis, Bangladeshis and others. In the United States, such ethnic groups would be known as South Asians, while Chinese, Japanese, Vietnamese and others would be known as East Asians.”
 
@@ -167,11 +168,11 @@ The terms *Latino*, *Hispanic* and *Chicano*, which generally refer to people wh
 
 #### Latino/Latina/Latinx
 
-According to AP, *Latino* can be used to refer to “a person from, or whose ancestors were from, a Spanish-speaking land or culture or from Latin America.” *Latina* is the feminine form of the word, and *Latinx* is a gender-neutral form, pronounced “La-teen-ex.” [The Diversity Style Guide](https://www.diversitystyleguide.com/) also includes the gender-neutral spelling Latin@.
+According to AP, *Latino* can be used to refer to “a person from, or whose ancestors were from, a Spanish-speaking land or culture or from Latin America.” *Latina* is the feminine form of the word, and *Latinx* is a gender-neutral form, pronounced “La-teen-ex.” [*The Diversity Style Guide*](https://www.diversitystyleguide.com/) also includes the gender-neutral spelling Latin@.
 
 #### Hispanic
 
-The Diversity Style Guide calls *Hispanic* “an umbrella term referring to a person whose ethnic origin is in a Spanish-speaking country, as well as residents of the United States with Latin American ancestry, except for those from Brazil, which is not a Spanish-speaking country”—though the [*Mother Jones* style guide](#race) points out that some Portuguese-speaking Brazilians have adopted this identity as well. *The Diversity Style Guide* says the term *Hispanic* “is more commonly used in the Eastern United States and is generally favored by those of Caribbean and South American ancestry or origin.”
+*The Diversity Style Guide* calls *Hispanic* “an umbrella term referring to a person whose ethnic origin is in a Spanish-speaking country, as well as residents of the United States with Latin American ancestry, except for those from Brazil, which is not a Spanish-speaking country”&mdash;though the [*Mother Jones* style guide](https://www.motherjones.com/media/2020/02/mother-jones-style-guide/#race) points out that some Portuguese-speaking Brazilians have adopted this identity as well. *The Diversity Style Guide* says the term *Hispanic* “is more commonly used in the Eastern United States and is generally favored by those of Caribbean and South American ancestry or origin.”
 
 #### Chicano/Chicana
 
@@ -182,9 +183,9 @@ According to the AP, *Chicano* refers to “Mexican Americans in the US Southwes
 
 According to the [*AP Styleguide*](https://www.apstylebook.com/ap_stylebook/middle-east), the term *Middle East* “generally applies to southwest Asia west of Pakistan and Afghanistan (Iran, Iraq, Israel, Kuwait, Jordan, Lebanon, Oman, Bahrain, Qatar, Saudi Arabia, Syria, the eastern part of Turkey known as Asia Minor, United Arab Emirates and Yemen), and northeastern Africa (Egypt and Sudan).” AP says that “[s]ome consider Libya and other Arabic-speaking countries of the Maghreb to be part of the region.”
 
-The AP does not use the acronym *MENA*. [*The Diversity Style Guide*](https://www.diversitystyleguide.com/glossary/mena-middle-eastern-or-north-african/) defines it as an “[a]bbreviation for the region known as the Middle East and North Africa.” [The Office of the United States Trade Representative](#:~:text=MENA%20countries%20consist%20of%20Algeria,United%20Arab%20Emirates%20and%20Yemen.) counts as part of *MENA* Algeria, Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates and Yemen.
+The AP does not use the acronym *MENA*. [*The Diversity Style Guide*](https://www.diversitystyleguide.com/glossary/mena-middle-eastern-or-north-african/) defines *MENA* as an “[a]bbreviation for the region known as the Middle East and North Africa.” [The Office of the United States Trade Representative](https://ustr.gov/countries-regions/europe-middle-east/middle-east/north-africa#:~:text=MENA%20countries%20consist%20of%20Algeria,United%20Arab%20Emirates%20and%20Yemen.) counts as part of *MENA* Algeria, Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates and Yemen.
 
-The Diversity Style Guide says: “People of MENA descent can mark ‘White, including Middle Eastern’ or ‘some other race’ on [U.S.] Census forms. Use *Middle Eastern or North African descent* on first reference.” (see **White**)
+*The Diversity Style Guide* says: “People of MENA descent can mark ‘White, including Middle Eastern’ or ‘some other race’ on [U.S.] Census forms. Use *Middle Eastern or North African descent* on first reference.” (see **White**)
 
 
 ### migration
@@ -219,7 +220,7 @@ The NAHJ handbook says to avoid terms such as *illegal immigrant* or *illegal al
 
 NAHJ points out that “[n]either of these terms clarify if a person came here legally, and their visa expired, or if a person is in a state of legal limbo, waiting for paperwork to be processed, nor does it explain if that person—regardless of whether they are an adult or child—has been processed in an immigration court, and is awaiting a decision regarding their application for asylum. A person’s legal status could change because of a variety of other factors, and the use of the word ‘illegal’ obscures this complexity. Moreover, it should be noted that people accused of other misdemeanors are not referred to as ‘illegal’ in any context.”
 
-The NAHJ handbook recommends using terms such as: *newest Americans*, *newcomers*, *undocumented citizens*, *unauthorized immigrants*, *families who have moved from one place to another*, and *people who weren’t born in the United States*. The [*Mother Jones* style guide](#race) adds: *undocumented immigrant* and *people without legal immigration status*.
+The NAHJ handbook recommends using terms such as: *newest Americans*, *newcomers*, *undocumented citizens*, *unauthorized immigrants*, *families who have moved from one place to another*, and *people who weren’t born in the United States*. The [*Mother Jones* style guide](https://www.motherjones.com/media/2020/02/mother-jones-style-guide/#race) adds: *undocumented immigrant* and *people without legal immigration status*.
 
 Avoid the word *expat*, which, according to the article “[‘Expat’ and the Fraught Language of Migration](https://www.theatlantic.com/international/archive/2018/10/expat-immigrant/570967/),” refers to “someone who lives and works abroad for a temporary period of time but plans to return to their home country,” but in practice is usually reserved only for “highly paid and highly educated” migrants.
 
@@ -255,7 +256,7 @@ As NAJA explains, *Indian Country* is a legal term, but “it also has popular u
 
 #### Indigenous
 
-AP says to “capitalize this term used to refer to original inhabitants of a place.” As NAJA clarifies, capitalizing *Indigenous* distinguishes it—used to describe someone’s identity—from *indigenous*—used to describe a plant or animal.
+AP says to “capitalize this term used to refer to original inhabitants of a place.” As NAJA clarifies, capitalizing *Indigenous* distinguishes it&mdash;used to describe someone’s identity&mdash;from *indigenous*&mdash;used to describe a plant or animal.
 
 NAJA urges writers to “avoid referring to Indigenous people as possessions of states or countries.” For example: “Instead of ‘Wyoming’s Indigenous people,’ try ‘the Indigenous people of Wyoming.’”
 
@@ -271,7 +272,7 @@ Other considerations:
 
 - The Radical Copyeditor published a guide “[Thirty Everyday Phrases that Perpetuate the Oppression of Indigenous Peoples](https://radicalcopyeditor.com/2020/10/12/thirty-everyday-phrases-that-perpetuate-the-oppression-of-indigenous-peoples/).” In it, Kapitan writes: “It might seem harmless when your boss mentions the need for a powwow among the company’s executives or an online quiz promises to reveal your spirit animal, but everyday language like this is a result of centuries of violence and continues to perpetuate stereotypes that have real-life impacts on Native communities.”
 - The book *Elements of Indigenous Style* notes: “An entire lexicon of terminology commonly used in reference to Indigenous Peoples came out of the discipline of anthropology, and to a lesser extent, archaeology. Both disciplines tend to view Indigenous Peoples as remnants of the past, and many terms tend to denigrate and dehumanize Indigenous Peoples. They have often presented Indigenous Peoples as ‘primitive’ societies that should be documented before they inevitably develop into modern, Western-based peoples (i.e., ‘the vanishing race’). These precepts clearly go against the Indigenous cultural principles that Indigenous Peoples have vibrant, evolving cultures based on ancient fundamentals.” (pg. 52)
-- *Elements of Indigenous Style* cautions writers and editors to watch out for “how the attitudes of colonialism are embedded in word choices,” explaining: “Colonial language communicates paternalism—the idea that Indigenous Peoples are not capable of thinking and acting for themselves. Paternalism shows up in word choices like this: ‘The Numbered Treaties provided First Nations with reserves, education, and health care.’ The problem here is that First Nations sound like passive recipients of benefits, instead of active negotiators of Treaty Rights.” (pg. 75-76)
+- *Elements of Indigenous Style* cautions writers and editors to watch out for “how the attitudes of colonialism are embedded in word choices,” explaining: “Colonial language communicates paternalism&mdash;the idea that Indigenous Peoples are not capable of thinking and acting for themselves. Paternalism shows up in word choices like this: ‘The Numbered Treaties provided First Nations with reserves, education, and health care.’ The problem here is that First Nations sound like passive recipients of benefits, instead of active negotiators of Treaty Rights.” (pg. 75-76)
 - *Elements of Indigenous Style* also advises: “Avoid the common error of describing Indigenous Peoples in the past tense.” (pg. 97)
 - The Native American Journalists Association published a [flowchart](https://najanewsroom.com/wp-content/uploads/2018/11/Expert-FINAL-letter.pdf) to help reporters decide whether a source can serve as an Indigenous expert. The main message: Make sure you find an actual expert, instead of just interviewing any Indigenous person with an opinion.
 - As writer Debra Utacia Krol, an enrolled member of the Xolon Salinan Tribe, mentions in an [article in The *Open Notebook*](https://www.theopennotebook.com/2019/06/18/covering-indigenous-communities-with-respect-and-sensitivity/), organizations that can help you find an expert include the [Association of Tribal Archives, Libraries & Museums](https://www.atalm.org/) and the [Native American and Indigenous Studies Association](https://www.naisa.org/).
@@ -296,9 +297,9 @@ Specifically: “On first reference, present names in an order that reflects loc
 
 #### non-English words
 
-The [*Mother Jones* style guide](#race) says: “Italicize foreign words that don’t appear in Webster, on first use. Don’t italicize on later uses.” But if a word comes from a living language that some readers may speak, err on the side of not italicizing.
+The [*Mother Jones* style guide](https://www.motherjones.com/media/2020/02/mother-jones-style-guide/#race) says: “Italicize foreign words that don’t appear in Webster, on first use. Don’t italicize on later uses.” But if a word comes from a living language that some readers may speak, err on the side of not italicizing.
 
-Restaurant critic Patricia Escárcega of the *Los Angeles Times* announced in a [newsletter](https://www.latimes.com/food/story/2020-01-04/foreign-foods-tasting-notes-newsletter-patricia-escarcega) that the publication’s food section would no longer italicize non-English words, saying: “Italics are intended to facilitate clarity by signaling to readers that they haven’t stumbled onto a typo. But many writers, me included, believe that the words we choose to italicize—and thereby highlight as ‘foreign’—can have an ‘othering’ effect. Here’s a brief sampling of words that we have italicized in recent months: shawarma; al pastor; pollo asado; birria; carnitas; taquitos de papa; chicharron; salsa verde; taquero; and salsa roja. Seeing the foods many of us grew up eating italicized can feel jarring and alienating. Who are we writing for when we decide to italicize ‘salsa roja?’”
+Restaurant critic Patricia Escárcega of the *Los Angeles Times* announced in a [newsletter](https://www.latimes.com/food/story/2020-01-04/foreign-foods-tasting-notes-newsletter-patricia-escarcega) that the publication’s food section would no longer italicize non-English words, saying: “Italics are intended to facilitate clarity by signaling to readers that they haven’t stumbled onto a typo. But many writers, me included, believe that the words we choose to italicize&mdash;and thereby highlight as ‘foreign’&mdash;can have an ‘othering’ effect. Here’s a brief sampling of words that we have italicized in recent months: shawarma; al pastor; pollo asado; birria; carnitas; taquitos de papa; chicharron; salsa verde; taquero; and salsa roja. Seeing the foods many of us grew up eating italicized can feel jarring and alienating. Who are we writing for when we decide to italicize ‘salsa roja?’”
 
 On the other hand, the [Asian American Journalists Association](https://aaja.org/2020/11/30/covering-asia-and-asian-americans/) recommends: “To help the reader, include a phonetic rendering of possibly unfamiliar words. (e.g., ‘Tagalog, pronounced tuh-GAW-lug, is the leading language spoken in the Philippines.’)”
 
@@ -366,7 +367,7 @@ The [National Association of Black Journalists](https://www.nabj.org/page/styleg
 
 In an [article arguing in favor of capitalizing the term White](https://zora.medium.com/im-a-black-scholar-who-studies-race-here-s-why-i-capitalize-white-f94883aa2dd3), poet and sociologist of race and education Eve L. Ewing explains: “Whiteness is not only an absence. It’s not a hole in the map of America’s racial landscape. Rather, it is a specific social category that confers identifiable and measurable social benefits… Perhaps the only thing more remarkable than the powers of this shield is its seeming invisibility, which permits White people to move through the world without ever considering the fact of their Whiteness. This is an incredible feat, through which White people get to be only normal, neutral, or without any race at all, while the rest of us are saddled with this unpleasant business of being racialized…When we ignore the specificity and significance of Whiteness—the things that it is, the things that it does—we contribute to its seeming neutrality and thereby grant it power to maintain its invisibility.”
 
-If race is pertinent to the story, and your source is *White*, this is the one circumstance in which it’s not entirely up to them how they identify. The Radical Copyeditor explains in the article “[Ask a Radical Copyeditor: Are There Limits to Self-Identity Language?](#more-1452)”: “When it comes to accurately describing dominant characteristics, that’s a really different situation. I don’t get to say, ‘I’m not white; that word doesn’t resonate with me.’ Regardless of whether or not I identify with the word/concept *white*, I am white. It’s an accurate descriptor. When a marginalized person claims language to describe their oppressed identity, they are **speaking themself into existence** in a society that is trying to annihilate them. When a privileged person rejects an accurate descriptor of their privileged status, they are **refusing to acknowledge that they are privileged**—that there are particular hardships they get a pass on because of this facet of who they are.”
+If race is pertinent to the story, and your source is *White*, this is the one circumstance in which it’s not entirely up to them how they identify. The Radical Copyeditor explains in the article “[Ask a Radical Copyeditor: Are There Limits to Self-Identity Language?](https://radicalcopyeditor.com/2018/07/24/are-there-limits-to-self-identity-language/#more-1452)”: “When it comes to accurately describing dominant characteristics, that’s a really different situation. I don’t get to say, ‘I’m not white; that word doesn’t resonate with me.’ Regardless of whether or not I identify with the word/concept *white*, I am white. It’s an accurate descriptor. When a marginalized person claims language to describe their oppressed identity, they are **speaking themself into existence** in a society that is trying to annihilate them. When a privileged person rejects an accurate descriptor of their privileged status, they are **refusing to acknowledge that they are privileged**—that there are particular hardships they get a pass on because of this facet of who they are.”
 
 You can be more specific, using terms such as *Italian American*. Avoid *Caucasian* as an alternative to *White*, because of the history of the term (see: **race**).
 
@@ -375,19 +376,3 @@ For more arguments in favor of capitalizing the W in White, see:
 - “[Recognizing Race in Language: Why We Capitalize ‘Black’ and ‘White’](https://cssp.org/2020/03/recognizing-race-in-language-why-we-capitalize-black-and-white/)” by Ann Thúy Nguyên and Maya Pendleton at the Center for the Study of Social Policy
 - “[The Case for Capitalizing the B in Black](https://www.theatlantic.com/ideas/archive/2020/06/time-to-capitalize-blackand-white/613159/)” by Kwame Anthony Appiah for *The Atlantic*
 - “[Why ‘White’ should be capitalized, too](https://www.washingtonpost.com/opinions/2020/07/22/why-white-should-be-capitalized/)” by Nell Irvin Painter for the *Washington Post*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
