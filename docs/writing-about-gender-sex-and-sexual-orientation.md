@@ -45,7 +45,7 @@ AP notes that because “[n]ot all people fall under one of two categories for s
 
 The [GLAAD glossary](https://www.glaad.org/how-sexual-orientation-different-gender-identity) uses *sexual orientation* to “[describe] a person's enduring physical, romantic, and/or emotional attraction to another person.”
 
-The [NLGJA stylebook](https://www.nlgja.org/stylebook/terminology/) says to avoid using as a synonym for *sexual orientation* the terms *sexual preference*, “which implies a conscious choice” and *sexuality*, “which refers to sexual activity generally, not to whom one is attracted.” However, *Webster’s New World College Dictionary* says that the word *sexuality* can also refer to sexual orientation, and some people prefer the term. If sexual orientation is pertinent to the story, ask your source for their preference on what term(s) to use.
+The [NLGJA stylebook](https://www.nlgja.org/stylebook/terminology/) says to avoid using as a synonym for *sexual orientation* the terms *sexual preference*, “which implies a conscious choice” and *sexuality*, “which refers to sexual activity generally, not to whom one is attracted.” However, [*Webster’s New World College Dictionary*](https://www.apstylebook.com/websters/webster-s-s-sexuality) says that the word *sexuality* can also refer to sexual orientation, and some people prefer the term. If sexual orientation is pertinent to the story, ask your source for their preference on what term(s) to use.
 
 GLAAD points out that “[g]ender identity and sexual orientation are not the same. Transgender people may be straight, lesbian, gay, bisexual, or queer. For example, a person who transitions from male to female and is attracted solely to men would typically identify as a straight woman.”
 
