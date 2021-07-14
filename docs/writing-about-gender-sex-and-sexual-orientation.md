@@ -17,7 +17,7 @@ First, learn more about the terms *gender*, *sex* and *sexual orientation* and h
 
 There are different aspects to gender, such as *gender identity* and *gender expression*. The GLAAD glossary defines *gender identity* as “[a] person's internal, deeply held sense of their gender” and *gender expression* as “[e]xternal manifestations of gender, expressed through a person's name, pronouns, clothing, haircut, behavior, voice, and/or body characteristics.”
 
-The *AP Stylebook* clarifies that “*[g]ender* is not synonymous with *sex*. *Gender* refers to a person’s social identity, while *sex* refers to biological characteristics.” The organization Gender Spectrum notes on its webpage “[Understanding Gender](https://www.genderspectrum.org/articles/understanding-gender)” that *gender* is also distinct from *sexual orientation*: “Gender is personal (how we see ourselves), while sexual orientation is interpersonal (who we are physically, emotionally and/or romantically attracted to).”
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-and-sexuality) clarifies that “*[g]ender* is not synonymous with *sex*. *Gender* refers to a person’s social identity, while *sex* refers to biological characteristics.” The organization Gender Spectrum notes on its webpage “[Understanding Gender](https://www.genderspectrum.org/articles/understanding-gender)” that *gender* is also distinct from *sexual orientation*: “Gender is personal (how we see ourselves), while sexual orientation is interpersonal (who we are physically, emotionally and/or romantically attracted to).”
 
 AP notes that because “[n]ot all people fall under one of two categories for *sex* or *gender*, according to leading medical organizations,” writers should “avoid references to *both*, *either* or *opposite sexes* or *genders* as a way to encompass all people.” (see: **agender, bigender, genderfluid, nonbinary**) 
 
@@ -58,17 +58,17 @@ This is a selection of more specific terms. You can find many additional entries
 
 ### agender
 
-The *AP Stylebook* uses *agender* to describe “people who identify as having no gender.” The Association of LGBTQ Journalists (NLGJA) [*Stylebook on Lesbian, Gay, Bisexual, Transgender and Queer Terminology*](https://www.nlgja.org/stylebook/terminology/) notes this is “[n]ot synonymous with asexual or genderqueer.”
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-and-sexuality) uses *agender* to describe “people who identify as having no gender.” The Association of LGBTQ Journalists (NLGJA) [*Stylebook on Lesbian, Gay, Bisexual, Transgender and Queer Terminology*](https://www.nlgja.org/stylebook/terminology/) notes this is “[n]ot synonymous with asexual or genderqueer.”
 
 
 ### asexual
 
-AP uses *asexual* to describe “people who don’t experience sexual attraction, though they may feel other types of attraction, such as romantic or aesthetic.” The [NLGJA stylebook](https://www.nlgja.org/stylebook/terminology/) says *asexual* is “not synonymous with *agender* or *gender nonconforming*.” The [*GLAAD Media Reference Guide – Lesbian / Gay / Bisexual Glossary of Terms*](https://www.glaad.org/reference/lgbtq) notes: “A person can also be aromantic, meaning they do not experience romantic attraction.”
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-and-sexuality) uses *asexual* to describe “people who don’t experience sexual attraction, though they may feel other types of attraction, such as romantic or aesthetic.” The [NLGJA stylebook](https://www.nlgja.org/stylebook/terminology/) says *asexual* is “not synonymous with *agender* or *gender nonconforming*.” The [*GLAAD Media Reference Guide – Lesbian / Gay / Bisexual Glossary of Terms*](https://www.glaad.org/reference/lgbtq) notes: “A person can also be aromantic, meaning they do not experience romantic attraction.”
 
 
 ### bigender
 
-AP defines *bigender* as “a term for people who identify as a combination of two genders.” [The Trans Journalists Association style guide](https://transjournalists.org/style-guide/) notes: “These genders can be, but are not always, male and female.”
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-and-sexuality) defines *bigender* as “a term for people who identify as a combination of two genders.” [The Trans Journalists Association style guide](https://transjournalists.org/style-guide/) notes: “These genders can be, but are not always, male and female.”
 
 
 ### bisexual
@@ -79,12 +79,12 @@ The [*GLAAD Media Reference Guide – In Focus: Covering the Bisexual Community*
 
 “Simply because a person is currently in a relationship with someone of the same sex, that does not negate the person's bisexual orientation. Similarly, if a person is in what appears to be a heterosexual relationship, that also does not negate the person's bisexual orientation.”
 
-AP notes: “Some people prefer *pansexual*, which describes people attracted to others regardless of their gender.”
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-and-sexuality) notes: “Some people prefer *pansexual*, which describes people attracted to others regardless of their gender.”
 
 
 ### cisgender
 
-AP defines *cisgender* as “people whose gender identity matches the [sex] they were assigned at birth.”
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-and-sexuality) defines *cisgender* as “people whose gender identity matches the [sex] they were assigned at birth.”
 
 In the article “[Ask a Radical Copyeditor: Are There Limits to Self-Identity Language?](https://radicalcopyeditor.com/2018/07/24/are-there-limits-to-self-identity-language/),” Alex Kapitan notes that “*cis* is not (necessarily) an identity, it is a neutral description of the interaction between a person’s identity and their birth-assigned sex.” The [*GLAAD Media Reference Guide - Transgender*](https://www.glaad.org/reference/transgender) explains: “‘Cis-’ is a Latin prefix meaning ‘on the same side as,’ and is therefore an antonym of ‘trans-.’”
 
