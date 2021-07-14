@@ -37,18 +37,18 @@ module.exports = {
         {
         items: [
           {
+            label: 'Copyright © 2021 Symmetry Magazine',
+            href: 'https://www.symmetrymagazine.org/',
+          },
+        ],
+        items: [
+          {
             label: 'Terms of Use',
             href: 'https://www.symmetrymagazine.org/terms',
           },
         ],
         },
         {
-        items: [
-          {
-            label: 'Copyright © ${new Date().getFullYear()} Symmetry Magazine',
-            href: 'https://www.symmetrymagazine.org/',
-          },
-        ],
         },
       ],
       // copyright: `Copyright © ${new Date().getFullYear()} Symmetry Magazine`,
