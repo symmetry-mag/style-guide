@@ -42,8 +42,16 @@ module.exports = {
           },
         ],
         },
+        {
+        items: [
+          {
+            label: 'Copyright © ${new Date().getFullYear()} Symmetry Magazine',
+            href: 'https://www.symmetrymagazine.org/',
+          },
+        ],
+        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Symmetry Magazine`,
+      // copyright: `Copyright © ${new Date().getFullYear()} Symmetry Magazine`,
     },
     prism: {
       theme: lightCodeTheme,
