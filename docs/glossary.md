@@ -8,7 +8,7 @@ sidebar_position: 7
 [AAPI](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#asian)  
 [ADHD/ADD](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#adhd)  
 [able-bodied](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#able-bodied)  
-[accent marks](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#accent-marks)  
+[accent marks](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#non-english-words-and-names)  
 [accessible](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#accessible)  
 [addiction](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#addiction)  
 African American: see [Black](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black), [dual heritage, compound nationalities/ethnicities](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#dual-heritage-compound-nationalitiesethnicities)  
@@ -21,32 +21,30 @@ agender: see [agender](https://symmetry-mag.github.io/style-guide/writing-about-
 [antisemitism](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#antisemitism)  
 [aromantic](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation#asexual)  
 [asexual](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation#asexual)  
-Asian  
-Asperger’s syndrome  
-asylum-seeker  
-autism  
-autism spectrum disorder  
-BAME  
-BIPOC  
-bigender  
-biracial  
-bisexual  
-Black  
+[Asian](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#asian)  
+Asperger’s syndrome: see [autism spectrum disorder](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability/#autism-spectrum-disorder), [neurodiversity](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#neurodiversity)   
+[asylum-seeker](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#migration)  
+autism/autism spectrum disorder: see [autism spectrum disorder](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability/#autism-spectrum-disorder), [neurodiversity](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#neurodiversity)   
+[BAME](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
+[BIPOC](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
+bigender: see [bigender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#bigender), [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender)  
+[biracial](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#biracial-multiracial)  
+bisexual: see [bisexual](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#bisexual), [sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation)  
+[Black](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black)   
 Black, Asian and minority ethnic  
-Black, Indigenous and people of color  
-blind  
-blue collar  
-Brown  
-caregiver  
-caretaker  
-Caucasian  
-Chicano  
-cisgender  
-coming out  
-community/communities  
-compound nationalities/ethnicities  
-crip/cripple  
-cross-dresser  
+[Black, Indigenous and people of color]((https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  )  
+[blind](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#blind)  
+[blue collar](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)  
+[Brown](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#brown)  
+[caregiver/caretaker](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#caregiver)  
+[Caucasian](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#white)  
+[Chicano](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#latinohispanicchicano)  
+cisgender: see [cisgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#cisgender), [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender)  
+[coming out](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#out-coming-out)  
+[community/communities](https://symmetry-mag.github.io/style-guide/understanding-diversity-equity-and-inclusion#communities)  
+[compound nationalities/ethnicities](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#dual-heritage-compound-nationalitiesethnicities)  
+[crip/cripple](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#cripcripple)  
+[cross-dresser](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
 culture  
 Deaf/deaf  
 depression  
@@ -57,8 +55,8 @@ diagnosis
 dialect  
 disabled  
 diversity/diverse  
-drag queen  
-dual heritage  
+[drag queen/drag king](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
+[dual heritage](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#dual-heritage-compound-nationalitiesethnicities)  
 dumb  
 dyscalculia  
 dyslexia  
@@ -126,7 +124,7 @@ non-English words and names
 nonbinary  
 obsessive compulsive disorder  
 Oriental  
-out  
+[out](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#out-coming-out)  
 Pacific Islander  
 panic disorder  
 pansexual  
@@ -162,7 +160,7 @@ systemic racism
 they/them/their  
 Third World  
 Tourette syndrome  
-transgender  
+[transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
 transition  
 transsexual  
 Tribe  
@@ -174,7 +172,7 @@ visually impaired
 WOC  
 wheelchair  
 White  
-white collar  
+[white collar](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)  
 woman  
-women of color  
-working class
+[women of color](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
+[working class](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)
