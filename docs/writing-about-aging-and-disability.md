@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Writing about aging and disability
 
-In its [*Guidelines: How to Write about People with Disabilities*](https://rtcil.org/products/media/guidelines), the University of Kansas Research & Training Center on Independent Living points out: “People with disabilities are the largest minority group in America, and the only group that any person can join at any time—through disease, traumatic event, or other reason. Like other minority groups, there is much diversity within the disability community, and people with disabilities don’t want to be stereotyped when their stories are told.”
+In its [*Guidelines: How to Write about People with Disabilities*](https://rtcil.org/products/media/guidelines), the University of Kansas Research & Training Center on Independent Living points out: “People with disabilities are the largest minority group in America, and the only group that any person can join at any time&mdash;through disease, traumatic event, or other reason. Like other minority groups, there is much diversity within the disability community, and people with disabilities don’t want to be stereotyped when their stories are told.”
 
 According to the University of Kansas guidelines: “If you adopt respect for the individual as your guiding principle, you can have an open conversation that acknowledges both the disability and the unique identity and shared humanity of all. *How do you describe yourself?* or *How should I describe your disability?* are simple ways to begin.”
 
@@ -16,14 +16,14 @@ First, learn more about terms used to discuss aging and disability in general:
 
 ### able-bodied
 
-[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/able-bodied) defines able-bodied as “having a strong sound body.” In the [*Disability Language Style Guide*](https://ncdj.org/style-guide/), the National Center on Disability and Journalism recommends against using able-bodied to refer to individuals without disabilities, saying: “The term ‘non-disabled’ or the phrase ‘does not have a disability’ or ‘is not living with a disability’ are more neutral choices.”
+[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/able-bodied) defines able-bodied as “having a strong sound body.” In the [*Disability Language Style Guide*](https://ncdj.org/style-guide/), the National Center on Disability and Journalism recommends against using *able-bodied* to refer to individuals without disabilities, saying: “The term ‘non-disabled’ or the phrase ‘does not have a disability’ or ‘is not living with a disability’ are more neutral choices.”
 
 
 ### aging
 
 In its [*Media Takes: On Aging*](https://www.issuelab.org/resources/11981/11981.pdf), the International Longevity Center - USA makes recommendations related to writing about aging:
 
-- Rather than using the now-loaded terms *seniors* and the *elderly*, use *older adults* or *retirees*, or, even better, specify the age of the person or people you’re writing about.
+- Rather than using the now-loaded terms *seniors* and *the elderly*, use *older adults* or *retirees*, or, even better, specify the age of the person or people you’re writing about.
 - Avoiding describing older adults with patronizing adjectives such as *feisty, spry, sweet, little, feeble, eccentric, senile, grandmotherly,* etc. Do not describe someone as “80 years *young*.”
 - Refer to individuals living in nursing homes as *residents*, as opposed to *patients*.
 
@@ -38,7 +38,7 @@ The guide points out: “Although some people with disabilities also have chroni
 
 [NCDJ](https://ncdj.org/style-guide/) points out that “[d]isability and people who have disabilities are not monolithic. Avoid referring to ‘the disabled.’”
 
-AP recommends writers stay away from descriptions of disabled people “that connote pity, such as *afflicted with*, *battling* or *suffers from*” and says to “[a]void cliches such as *inspiring* and *brave*.”
+AP recommends writers stay away from descriptions of disabled people “that connote pity, such as *afflicted with*, *battling* or *suffers from*” and says to “[a]void clich&#xE9s such as *inspiring* and *brave*.”
 
 
 ### handicap/handicapped
@@ -48,7 +48,7 @@ AP recommends not using these terms as synonyms for *disability*/*disabled*.
 
 
 ## Style guide 
-(find additional entries in the guides referenced)
+This is a selection of more specific terms. You can find many additional entries in the guides referenced.
 
 
 ### accessible
@@ -152,5 +152,5 @@ AP says: “*Survivor* can denote someone who has lived through an injury or dis
 
 [*Merriam-Webster*](https://www.merriam-webster.com/dictionary/wheelchair) defines *wheelchair* as “a chair mounted on wheels especially for the use of disabled persons.” AP recommends saying a person is a “wheelchair user,” not that they are “confined to a wheelchair” or “wheelchair-bound.” 
 
-Know that some people use wheelchairs in their daily lives only some of the time—or to assist them with specific tasks. AP notes: “If a wheelchair is needed, and relevant, say why.”
+Know that some people use wheelchairs in their daily lives only some of the time&mdash;or to assist them with specific tasks. AP notes: “If a wheelchair is needed, and relevant, say why.”
 
