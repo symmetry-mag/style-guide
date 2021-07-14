@@ -25,5 +25,7 @@ The guide is divided into five sections:
 - [Writing about gender, sex and sexual orientation](writing-about-gender-sex-and-sexual-orientation)
 - [Writing about culture, ethnicity and race](writing-about-culture-ethnicity-and-race)
 
+It also includes a list of [references](https://symmetry-mag.github.io/style-guide/references) and a [glossary](https://symmetry-mag.github.io/style-guide/glossary).
+
 
 
