@@ -31,8 +31,8 @@ bigender: see [bigender](https://symmetry-mag.github.io/style-guide/writing-abou
 [biracial](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#biracial-multiracial)  
 bisexual: see [bisexual](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#bisexual), [sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation)  
 [Black](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black)   
-Black, Asian and minority ethnic  
-[Black, Indigenous and people of color]((https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  )  
+[Black, Asian and minority ethnic](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
+[Black, Indigenous and people of color](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
 [blind](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#blind)  
 [blue collar](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)  
 [Brown](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#brown)  
@@ -116,34 +116,34 @@ lesbian: see [lesbian](https://symmetry-mag.github.io/style-guide/writing-about-
 [minority-serving institution (MSI)](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#minority-serving-institutions)  
 [mixed-race](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#biracial-multiracial)  
 [multiracial](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#biracial-multiracial)  
-mute  
+[mute](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#deafdeaf)  
 [Native/Native American](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 [neurodivergent/neurodiversity/neurotypical](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#neurodiversity)  
 [non-English words and names](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#non-english-words-and-names)  
-nonbinary  
-obsessive compulsive disorder  
-Oriental  
+nonbinary: see [nonbinary](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#nonbinary), [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender)  
+[obsessive compulsive disorder](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#mental-illness)  
+[Oriental](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#asian)  
 [out](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#out-coming-out)  
-Pacific Islander  
-panic disorder  
-pansexual  
+Pacific Islander: see [Pacific Islander](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#pacific-islander), [Asian](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#asian)  
+[panic disorder](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#mental-illness)  
+pansexual: see [pansexual](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#pansexual), [sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation)  
 [parity](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity#parity)  
-people of color  
+[people of color](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#people-of-color)  
 [Pilipino](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#filipinopilipino)  
 [portrayal](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity#portrayal)  
 [powwow](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 [predominantly White institution (PWI)](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#minority-serving-institutions)  
-pronouns  
-Puerto Rico  
-queer  
-race  
-racialization  
-racism  
+[pronouns](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#pronouns)  
+[Puerto Rico](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#puerto-rico)  
+[queer](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#queer)  
+[race](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#race)  
+[racialization](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#race)  
+[racism](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#racism)  
 [refugee](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
 [representation](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity#representation)  
 [returnee](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
-Roma, Romany, Romani  
-schizophrenia  
+[Roma, Romany, Romani](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#roma-romany-romani)  
+[schizophrenia](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#mental-illness)  
 sex  
 sexual orientation  
 sexual preference  
