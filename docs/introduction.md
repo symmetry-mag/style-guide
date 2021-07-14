@@ -21,7 +21,7 @@ The guide is divided into five sections.
 The first two are introductory:  
 
 - [Understanding diversity, equity and inclusion](understanding-diversity-equity-and-inclusion), which introduces some basic ideas; and
-- [Writing about people with dignity](writing-about-people-with-dignity), which introduces some basic principles
+- [Writing about people with dignity](writing-about-people-with-dignity), which introduces some basic principles.
 
 And then the guide gets into specific topics:
 
