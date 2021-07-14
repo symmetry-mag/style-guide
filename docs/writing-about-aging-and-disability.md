@@ -38,7 +38,7 @@ The guide points out: “Although some people with disabilities also have chroni
 
 [NCDJ](https://ncdj.org/style-guide/) points out that “[d]isability and people who have disabilities are not monolithic. Avoid referring to ‘the disabled.’”
 
-AP recommends writers stay away from descriptions of disabled people “that connote pity, such as *afflicted with*, *battling* or *suffers from*” and says to “[a]void clich&#xE9s such as *inspiring* and *brave*.”
+AP recommends writers stay away from descriptions of disabled people “that connote pity, such as *afflicted with*, *battling* or *suffers from*” and says to “[a]void clich&#233;s such as *inspiring* and *brave*.”
 
 
 ### handicap/handicapped
