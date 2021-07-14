@@ -30,7 +30,7 @@ In its [*Media Takes: On Aging*](https://www.issuelab.org/resources/11981/11981.
 
 ### disabled
 
-The [*AP Stylebook](https://www.apstylebook.com/ap_stylebook/disabilities) defines *disabled* as “[a] general term used for a physical, mental, developmental or intellectual disability.” AP says both person-first (“person with a disability”) and identity-first (“disabled person”) language are acceptable. Ask your source what they prefer.
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) defines *disabled* as “[a] general term used for a physical, mental, developmental or intellectual disability.” AP says both person-first (“person with a disability”) and identity-first (“disabled person”) language are acceptable. Ask your source what they prefer.
 
 The Americans with Disabilities Act National Network’s [*Guidelines for Writing about People with Disabilities*](https://adata.org/factsheet/ADANN-writing) spells out some common categories used to describe types of disability: “visible/invisible; physical; mobility; sensory; cognitive; mental illness/psychiatric disability; and acquired/congenital.”
 
