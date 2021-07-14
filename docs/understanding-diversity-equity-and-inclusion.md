@@ -6,13 +6,13 @@ sidebar_position: 1
 
 
 
-This guide is meant to help writers promote diversity, equity and inclusion with their work. First, read about some important related terms:
+First, read about some important related terms:
 
 
 ## communities
 According to *Webster’s New World College Dictionary*, the word *community* can refer to “a group of people forming a smaller social unit within a larger one, and sharing common interests, work, identity, location, etc.” This word is sometimes used to describe a group (for example, *the disability community, the gay community, the Korean community*).
 
-But in the guide [*Covering Asia and Asian Americans*](https://www.aaja.org/2020/11/30/covering-asia-and-asian-americans/), the Asian American Journalists Association points out that using a phrase like the Korean community “implies a shared like-mindedness that no reporter can possibly confirm.” In its *style guide*, the publication *Mother Jones* offers an alternative: “Consider using the plural ‘communities’ rather than singular… to avoid implying a monolith.”
+But in the guide [*Covering Asia and Asian Americans*](https://www.aaja.org/2020/11/30/covering-asia-and-asian-americans/), the Asian American Journalists Association points out that using a phrase like *the Korean community* “implies a shared like-mindedness that no reporter can possibly confirm.” In its [*style guide*](https://www.motherjones.com/media/2020/02/mother-jones-style-guide/#race), the publication *Mother Jones* offers an alternative: “Consider using the plural ‘communities’ rather than singular… to avoid implying a monolith.”
 
 
 ## diversity/diverse
@@ -28,7 +28,7 @@ The [*Race Reporting Guide*](https://www.raceforward.org/sites/default/files/Rac
 
 
 ## inclusion
-[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/inclusion) defines inclusion as “the act or practice of including or accommodating people who have historically been excluded (as because of their race, gender, sexuality, or ability).” [*Race Forward’s guide*](https://www.raceforward.org/sites/default/files/Race%20Reporting%20Guide%20by%20Race%20Forward_V1.1.pdf) says: “More than simply diversity and quantitative representation, inclusion involves authentic and empowered participation, with a true sense of belonging and full access to opportunities.”
+[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/inclusion) defines *inclusion* as “the act or practice of including or accommodating people who have historically been excluded (as because of their race, gender, sexuality, or ability).” [Race Forward’s guide](https://www.raceforward.org/sites/default/files/Race%20Reporting%20Guide%20by%20Race%20Forward_V1.1.pdf) says: “More than simply diversity and quantitative representation, inclusion involves authentic and empowered participation, with a true sense of belonging and full access to opportunities.”
 
 
 ## minority
@@ -38,7 +38,7 @@ In a [statement published August 4, 2020](https://nahj.org/2020/08/04/nahj-asks-
  
 NAHJ advises: “Newsrooms may improve language by being more descriptive and specific, referring to groups or individuals by their nationality, race and/or ethnicity when appropriate.”
  
-[Race Forward](https://www.raceforward.org/sites/default/files/Race%20Reporting%20Guide%20by%20Race%20Forward_V1.1.pdf) also recommends generally avoiding the term minority. It does say it “may be needed in specific cases (such as ‘minority contracting’ and ‘minority-owned businesses’) to reflect data that is collected using those categories.” But in an [essay](https://cue.usc.edu/files/2016/01/Bensimon_The-Misbegotten-URM-as-a-Data-Point.pdf?fbclid=IwAR2Gotzzq5s7vJATWlYojsNagny8tTyAcVmz9HrOlux1wJSPCfVHcqwSvBo) arguing against the use of the term *underrepresented minority*, Estela Mara Bensimon, director of the Center for Urban Education at the University of Southern California, writes that “[r]eporting numeric data in the aggregate constitutes malpractice as it hides significant inequalities across groups… True, Blacks, Latinos and Latinas, Native Hawaiians, Hmong, and American Indians may share unequal outcomes in all the indicators of equal opportunity… But the roots of inequality for each group are enormously different… The undifferentiated URM category hides the origins of inequality.”
+[Race Forward](https://www.raceforward.org/sites/default/files/Race%20Reporting%20Guide%20by%20Race%20Forward_V1.1.pdf) also recommends generally avoiding the term *minority*. It does say it “may be needed in specific cases (such as ‘minority contracting’ and ‘minority-owned businesses’) to reflect data that is collected using those categories.” But in an [essay](https://cue.usc.edu/files/2016/01/Bensimon_The-Misbegotten-URM-as-a-Data-Point.pdf?fbclid=IwAR2Gotzzq5s7vJATWlYojsNagny8tTyAcVmz9HrOlux1wJSPCfVHcqwSvBo) arguing against the use of the term *underrepresented minority*, Estela Mara Bensimon, director of the Center for Urban Education at the University of Southern California, writes that “[r]eporting numeric data in the aggregate constitutes malpractice as it hides significant inequalities across groups… True, Blacks, Latinos and Latinas, Native Hawaiians, Hmong, and American Indians may share unequal outcomes in all the indicators of equal opportunity… But the roots of inequality for each group are enormously different… The undifferentiated URM category hides the origins of inequality.”
  
 Women, who make up slightly more than half of the world population, generally do not count as *minorities* (though it depends on the context). But women, along with many other groups, can be considered *minoritized*. The [YWCA guide](https://www.ywboston.org/wp-content/uploads/2016/02/MISS_VIT_BLD-SUPP-FOR-MISS_TRN-AND-DEVEL_SJ-GLOSSARY_MARCH_2016.pdf) defines a *minoritized population* as “[a] community of people whose access to institutional and structural power has been severely limited, regardless of the size of that population.” In contrast, a *majoritized population* is “[a] community of people whose access to institutional and structural power has been structurally guaranteed, regardless of the size of the population.”
  
