@@ -49,7 +49,6 @@ module.exports = {
               href: 'https://www.symmetrymagazine.org/terms',
             },
           ],
-        }
         },
       ],
       // copyright: `Copyright © ${new Date().getFullYear()} Symmetry Magazine`,
