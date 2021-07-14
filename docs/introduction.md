@@ -20,14 +20,14 @@ The guide is divided into five sections.
 
 The first two are introductory:  
 
-- [Understanding diversity, equity and inclusion](understanding-diversity-equity-and-inclusion), which introduces some basic ideas; and
-- [Writing about people with dignity](writing-about-people-with-dignity), which introduces some basic principles.
+- [Understanding diversity, equity and inclusion](https://symmetry-mag.github.io/style-guide/understanding-diversity-equity-and-inclusion), which introduces some basic ideas; and
+- [Writing about people with dignity](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity), which introduces some basic principles.
 
 After that, the guide gets into specific topics:
 
-- [Writing about aging and disability](writing-about-aging-and-disability)
-- [Writing about gender, sex and sexual orientation](writing-about-gender-sex-and-sexual-orientation)
-- [Writing about culture, ethnicity and race](writing-about-culture-ethnicity-and-race)
+- [Writing about aging and disability](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability)
+- [Writing about gender, sex and sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation)
+- [Writing about culture, ethnicity and race](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race)
 
 It also includes a list of [references](https://symmetry-mag.github.io/style-guide/references) and a [glossary](https://symmetry-mag.github.io/style-guide/glossary).
 
