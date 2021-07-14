@@ -11,7 +11,7 @@ Writing about people with dignity involves more than just using the “right” 
 
 Parity, or “how we treat people in parallel contexts.” For example, Yin writes: “If you’re going to make one person’s race relevant, make everyone’s race relevant equally.”
  
-After two swimmers achieved historic firsts at the Olympics—Michael Phelps for earning a record number of gold medals and Simone Manuel for being the first African American woman in the sport to win an individual gold—a San Jose newspaper used the headline: “Michael Phelps shares historic night with African American.” After complaints that the headline unfairly erased Manuel, the paper changed it to: “Olympics: Stanford’s Simone Manuel and Michael Phelps make history.”
+After two swimmers achieved historic firsts at the Olympics&mdash;Michael Phelps for earning a record number of gold medals and Simone Manuel for being the first African American woman in the sport to win an individual gold&mdash;a San Jose newspaper used the headline: “Michael Phelps shares historic night with African American.” After complaints that the headline unfairly erased Manuel, the paper changed it to: “Olympics: Stanford’s Simone Manuel and Michael Phelps make history.”
 
 
 ## Portrayal
@@ -28,12 +28,12 @@ For example, in their [style guide](https://www.nabj.org/page/styleguide), the N
 
 ## Representation
 
-Representation, or “how we balance population, proportion and perception.” Yin writes: “Instead of returning to the same stories, casting the same characters, recreating the same associations, tell a different story. One way is by putting a spotlight on subgroups that experience erasure within communities already marginalized. The most visible are not representative of the community.”
+Representation, or “how we balance population, proportion and perception”&mdash;Yin writes: “Instead of returning to the same stories, casting the same characters, recreating the same associations, tell a different story. One way is by putting a spotlight on subgroups that experience erasure within communities already marginalized. The most visible are not representative of the community.”
 
 
 ## Final thought
 
-As a final thought, Yin advises making sure the audience you picture when you write is a diverse one. Your audience includes all of the people described in this guide. To paraphrase Yin: Write *to* them, not just *about* them.
+As a final thought, Yin advises making sure the audience you picture when you write is a diverse one. Your audience includes all of the people described in this guide. To paraphrase Yin: Write *to* all members of this diverse audience, not just *about* them.
 
 
 
