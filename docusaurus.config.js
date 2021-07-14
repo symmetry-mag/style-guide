@@ -34,6 +34,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
+        {
         title: '&nbsp;',
         items: [
           {
@@ -41,6 +42,7 @@ module.exports = {
             href: 'https://www.symmetrymagazine.org/terms',
           },
         ],
+        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Symmetry Magazine`,
     },
