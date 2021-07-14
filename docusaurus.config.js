@@ -34,6 +34,12 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
+        items: [
+          {
+            label: 'Terms of Use',
+            href: 'https://www.symmetrymagazine.org/terms',
+          },
+        ],
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Symmetry Magazine`,
     },
