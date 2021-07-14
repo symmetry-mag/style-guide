@@ -30,7 +30,7 @@ In its [*Media Takes: On Aging*](https://www.issuelab.org/resources/11981/11981.
 
 ### disabled
 
-AP defines *disabled* as “[a] general term used for a physical, mental, developmental or intellectual disability.” AP says both person-first (“person with a disability”) and identity-first (“disabled person”) language are acceptable. Ask your source what they prefer.
+The [*AP Stylebook](https://www.apstylebook.com/ap_stylebook/disabilities) defines *disabled* as “[a] general term used for a physical, mental, developmental or intellectual disability.” AP says both person-first (“person with a disability”) and identity-first (“disabled person”) language are acceptable. Ask your source what they prefer.
 
 The Americans with Disabilities Act National Network’s [*Guidelines for Writing about People with Disabilities*](https://adata.org/factsheet/ADANN-writing) spells out some common categories used to describe types of disability: “visible/invisible; physical; mobility; sensory; cognitive; mental illness/psychiatric disability; and acquired/congenital.”
 
@@ -43,7 +43,7 @@ AP recommends writers stay away from descriptions of disabled people “that con
 
 ### handicap/handicapped
 
-AP recommends not using these terms as synonyms for *disability*/*disabled*.
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) recommends not using these terms as synonyms for *disability*/*disabled*.
 
 
 
@@ -84,12 +84,12 @@ This is a selection of more specific terms. You can find many additional entries
 
 ### caregiver
 
-The AP Stylebook defines *caregiver* as “a person who takes care of someone requiring close attention, such as a person with a serious illness or age-related concerns.” It says to use *caregiver*, rather than *caretaker*, “in situations involving people receiving care. The term *caretaker* generally refers to a person who takes care of something, such as a house, when the owner isn’t present, or to a person or entity carrying out duties temporarily (*a caretaker government*).”  
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) defines *caregiver* as “a person who takes care of someone requiring close attention, such as a person with a serious illness or age-related concerns.” It says to use *caregiver*, rather than *caretaker*, “in situations involving people receiving care. The term *caretaker* generally refers to a person who takes care of something, such as a house, when the owner isn’t present, or to a person or entity carrying out duties temporarily (*a caretaker government*).”  
 
 
 ### crip/cripple
 
-*Webster’s New World College Dictionary* defines *cripple* as someone who is “lame or otherwise disabled in a way that prevents normal motion of the limbs or body.” The *AP Stylebook* recommends avoiding the term *cripple*. But [NCDJ](https://ncdj.org/style-guide/) points out that “[r]ecently, some disability activists have reclaimed” words like *crip* and *cripple*. If a source prefers to use these terms, you can point out in the story that this is how they self-identify.
+[*Webster’s New World College Dictionary*](https://www.apstylebook.com/websters/webster-s-c-cripple) defines *cripple* as someone who is “lame or otherwise disabled in a way that prevents normal motion of the limbs or body.” The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) recommends avoiding the term *cripple*. But [NCDJ](https://ncdj.org/style-guide/) points out that “[r]ecently, some disability activists have reclaimed” words like *crip* and *cripple*. If a source prefers to use these terms, you can point out in the story that this is how they self-identify.
 
 
 ### Deaf/deaf
@@ -98,7 +98,7 @@ The AP Stylebook defines *caregiver* as “a person who takes care of someone re
 
 According to [NCDJ](https://ncdj.org/style-guide/): “’Deaf’ and ‘hard of hearing’ became the official terms recommended by the World Federation of the Deaf in 1991. Many people in the Deaf community prefer the use of the lowercase ‘d’ to refer to audiological status and the use of the capital ‘D’ when referring to the culture and community of Deaf people.” Always ask your source what they prefer; some deaf people do not consider themselves to be a part of the Deaf community.
 
-AP reserves the term “deaf” for “a person with total or major hearing loss.” Otherwise, it recommends using terms like “partial hearing loss” or “partially deaf.” Avoid the term “hearing impaired.”
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) reserves the term “deaf” for “a person with total or major hearing loss.” Otherwise, it recommends using terms like “partial hearing loss” or “partially deaf.” Avoid the term “hearing impaired.”
 
 NCDJ says: “When quoting or paraphrasing a person who has signed their responses, it’s appropriate on first reference to indicate that the responses were signed. It’s acceptable to use the word ‘said’ in subsequent references.”
  
@@ -114,7 +114,7 @@ NCDJ says to avoid the terms *mute* and *dumb*, as they “imply that communicat
 
 [*Merriam-Webster*](https://www.merriam-webster.com/dictionary/mental%20illness) defines *mental illness* as “any of a broad range of medical conditions (such as major depression, schizophrenia, obsessive compulsive disorder, or panic disorder) that are marked primarily by sufficient disorganization of personality, mind, or emotions to impair normal psychological functioning and cause marked distress or disability and that are typically associated with a disruption in normal thinking, feeling, mood, behavior, interpersonal interactions, or daily functioning.”
 
-If possible, avoid using this vague term in favor of naming a specific diagnosis. AP says to “[s]pecify the time frame for the diagnosis and ask about treatment.”
+If possible, avoid using this vague term in favor of naming a specific diagnosis. The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) says to “[s]pecify the time frame for the diagnosis and ask about treatment.”
 
 Don’t use mental health terms as metaphors. See [*The Carter Center Journalism Resource Guide on Behavioral Health*](https://www.cartercenter.org/resources/pdfs/health/mental_health/2015-journalism-resource-guide-on-behavioral-health.pdf) for tips on writing about mental illness. See the National Eating Disorders Association’s “[Sharing Your Story Publicly](https://www.nationaleatingdisorders.org/community/sharing-your-story-responsibly)” for tips on writing about eating disorders.
 
@@ -141,7 +141,7 @@ An individual can be *neurodivergent*, but a single person cannot on their own b
 
 ### survivor
 
-AP says: “*Survivor* can denote someone who has lived through an injury or disease.”
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) says: “*Survivor* can denote someone who has lived through an injury or disease.”
 
 [NCDJ](https://ncdj.org/style-guide/) says: “Some use the term ‘survivor’ to affirm their recovery from or conquest of an adverse health condition.” But it recommends using it with care in writing, as it can “imply that those who die simply did not fight hard enough.” NCDJ points out there is a similar discomfort about “characterizing disease or illness as a ‘battle,’ as in ‘to battle cancer.’”
 
@@ -150,7 +150,7 @@ AP says: “*Survivor* can denote someone who has lived through an injury or dis
 
 ### wheelchair
 
-[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/wheelchair) defines *wheelchair* as “a chair mounted on wheels especially for the use of disabled persons.” AP recommends saying a person is a “wheelchair user,” not that they are “confined to a wheelchair” or “wheelchair-bound.” 
+[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/wheelchair) defines *wheelchair* as “a chair mounted on wheels especially for the use of disabled persons.” The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) recommends saying a person is a “wheelchair user,” not that they are “confined to a wheelchair” or “wheelchair-bound.” 
 
 Know that some people use wheelchairs in their daily lives only some of the time&mdash;or to assist them with specific tasks. AP notes: “If a wheelchair is needed, and relevant, say why.”
 
