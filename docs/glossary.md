@@ -15,12 +15,12 @@ African American: see [Black](https://symmetry-mag.github.io/style-guide/writing
 [Afro-Caribbean](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black)  
 [Afro-Latino](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black)  
 agender: see [agender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#agender), [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender), [transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
-aging  
-Alaska Natives  
-alternative lifestyle  
-antisemitism  
-aromantic
-asexual  
+[aging](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability/#aging)  
+[Alaska Natives](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
+[alternative lifestyle](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation#lifestyle)  
+[antisemitism](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#antisemitism)  
+[aromantic](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation#asexual)  
+[asexual](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation#asexual)  
 Asian  
 Asperger’s syndrome  
 asylum-seeker  
