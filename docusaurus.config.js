@@ -67,7 +67,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/symmetry-mag/style-guide/documentation',
+            'https://github.com/symmetry-mag/style-guide/tree/documentation',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
