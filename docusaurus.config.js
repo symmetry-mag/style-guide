@@ -48,8 +48,6 @@ module.exports = {
           },
         ],
         },
-        {
-        },
       ],
       // copyright: `Copyright © ${new Date().getFullYear()} Symmetry Magazine`,
     },
