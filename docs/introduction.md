@@ -23,7 +23,7 @@ The first two are introductory:
 - [Understanding diversity, equity and inclusion](understanding-diversity-equity-and-inclusion), which introduces some basic ideas; and
 - [Writing about people with dignity](writing-about-people-with-dignity), which introduces some basic principles.
 
-And then the guide gets into specific topics:
+After that, the guide gets into specific topics:
 
 - [Writing about aging and disability](writing-about-aging-and-disability)
 - [Writing about gender, sex and sexual orientation](writing-about-gender-sex-and-sexual-orientation)
