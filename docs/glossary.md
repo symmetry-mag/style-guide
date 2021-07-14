@@ -5,16 +5,16 @@ sidebar_position: 7
 
 # Glossary
 
-[AAPI](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#asian)
-[ADHD/ADD](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#adhd)
-[able-bodied](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#able-bodied)
-[accent marks](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#accent-marks)
-[accessible](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#accessible)
-[addiction](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#addiction)
+[AAPI](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#asian)  
+[ADHD/ADD](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#adhd)  
+[able-bodied](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#able-bodied)  
+[accent marks](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#accent-marks)  
+[accessible](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#accessible)  
+[addiction](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#addiction)  
 African American: see [Black](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black), [dual heritage, compound nationalities/ethnicities](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#dual-heritage-compound-nationalitiesethnicities)  
-[Afro-Caribbean](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black)
-[Afro-Latino](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black)
-agender: see [agender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#agender), [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender), [transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)
+[Afro-Caribbean](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black)  
+[Afro-Latino](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#black)  
+agender: see [agender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#agender), [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender), [transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
 aging  
 Alaska Natives  
 alternative lifestyle  
