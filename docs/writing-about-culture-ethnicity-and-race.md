@@ -82,7 +82,7 @@ According to the *AP Stylebook*, the term “was coined in the 19th century by t
 
 [*Merriam-Webster*](https://www.merriam-webster.com/dictionary/Asian) defines *Asian* as “of, relating to, or characteristic of the continent of Asia or its people.” 
 
-But in its guide, [Covering Asia and Asian Americans](https://aaja.org/2020/11/30/covering-asia-and-asian-americans/), the Asian American Journalists Association points out that the meaning of the term varies: “In some usage, chiefly British, ‘Asian’ refers to Indians, Pakistanis, Bangladeshis and others. In the United States, such ethnic groups would be known as South Asians, while Chinese, Japanese, Vietnamese and others would be known as East Asians.”
+But in its guide, [*Covering Asia and Asian Americans*](https://aaja.org/2020/11/30/covering-asia-and-asian-americans/), the Asian American Journalists Association points out that the meaning of the term varies: “In some usage, chiefly British, ‘Asian’ refers to Indians, Pakistanis, Bangladeshis and others. In the United States, such ethnic groups would be known as South Asians, while Chinese, Japanese, Vietnamese and others would be known as East Asians.”
 
 Be more specific, if possible. If race is pertinent to the story, ask your source for their preference on what term(s) to use. Do not use the outdated term *Oriental*, which AAJA describes as “[a] vestige of European imperialism,” “a term of condescension” and “at minimum… vague.”
 
