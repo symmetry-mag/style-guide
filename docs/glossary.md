@@ -152,7 +152,7 @@ pansexual: see [pansexual](https://symmetry-mag.github.io/style-guide/writing-ab
 [skin color](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#race)  
 [social construction](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#race)  
 [spirit animal](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
-straight: see [straight](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#straight), [sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation), [LGBT+](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#lgbt)  
+straight: see [straight](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#straight), [sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation)  
 [structural racism](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#racism)  
 [survivor](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#survivor)  
 [systemic racism](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#racism)  
