@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Writing about aging and disability
 
+This section of the style guide is meant to help writers respectfully and accurately cover subjects related to aging and disability. These topics won’t always be relevant in an article, but when they are, it’s important to write about them with care.
+
 In its [*Guidelines: How to Write about People with Disabilities*](https://rtcil.org/products/media/guidelines), the University of Kansas Research & Training Center on Independent Living points out: “People with disabilities are the largest minority group in America, and the only group that any person can join at any time&mdash;through disease, traumatic event, or other reason. Like other minority groups, there is much diversity within the disability community, and people with disabilities don’t want to be stereotyped when their stories are told.”
 
 According to the University of Kansas guidelines: “If you adopt respect for the individual as your guiding principle, you can have an open conversation that acknowledges both the disability and the unique identity and shared humanity of all. *How do you describe yourself?* or *How should I describe your disability?* are simple ways to begin.”
