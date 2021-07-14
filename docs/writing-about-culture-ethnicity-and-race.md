@@ -43,7 +43,7 @@ In an [essay for Conscious Style Guide](https://consciousstyleguide.com/why-we-c
 
 The [website for the United States Census Bureau](https://www.census.gov/topics/population/race/about/faq.html) says: “The racial categories included in the census questionnaire generally reflect a social definition of race recognized in this country and not an attempt to define race biologically, anthropologically, or genetically.”
 
-The [YWCA guide](https://www.ywboston.org/wp-content/uploads/2016/02/MISS_VIT_BLD-SUPP-FOR-MISS_TRN-AND-DEVEL_SJ-GLOSSARY_MARCH_2016.pdf) explains one historical use of the word race: “[a] theoretical invention of a European scientist used to separate and rank human beings into three distinct biological categories: Caucasoid (European), Negroid (African) and Mongoloid (Asian).” The European scientist was interested in asserting the Caucasoid race, to which he considered himself to belong, to be superior. (see **racism**)
+The [YWCA guide](https://www.ywboston.org/wp-content/uploads/2016/02/MISS_VIT_BLD-SUPP-FOR-MISS_TRN-AND-DEVEL_SJ-GLOSSARY_MARCH_2016.pdf) explains one historical use of the word race: “[a] theoretical invention of a European scientist used to separate and rank human beings into three distinct biological categories: Caucasoid (European), Negroid (African) and Mongoloid (Asian).” The European scientist was interested in asserting the Caucasoid race, to which he considered himself to belong, to be superior. (see: [**racism**](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#racism))
 
 YWCA describes *race* as “[a] social rather than biological construction.”
 
@@ -185,7 +185,7 @@ According to the [*AP Styleguide*](https://www.apstylebook.com/ap_stylebook/midd
 
 The AP does not use the acronym *MENA*. [*The Diversity Style Guide*](https://www.diversitystyleguide.com/glossary/mena-middle-eastern-or-north-african/) defines *MENA* as an “[a]bbreviation for the region known as the Middle East and North Africa.” [The Office of the United States Trade Representative](https://ustr.gov/countries-regions/europe-middle-east/middle-east/north-africa#:~:text=MENA%20countries%20consist%20of%20Algeria,United%20Arab%20Emirates%20and%20Yemen.) counts as part of *MENA* Algeria, Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates and Yemen.
 
-*The Diversity Style Guide* says: “People of MENA descent can mark ‘White, including Middle Eastern’ or ‘some other race’ on [U.S.] Census forms. Use *Middle Eastern or North African descent* on first reference.” (see **White**)
+*The Diversity Style Guide* says: “People of MENA descent can mark ‘White, including Middle Eastern’ or ‘some other race’ on [U.S.] Census forms. Use *Middle Eastern or North African descent* on first reference.” (see: [**White**](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#white))
 
 
 ### migration
@@ -361,7 +361,7 @@ The [Asian American Journalists Association](https://aaja.org/2020/11/30/coverin
 
 [*Merriam-Webster*](https://www.merriam-webster.com/dictionary/white) defines *White* as “any of various population groups considered as having light pigmentation of the skin.”
 
-It notes: “The meaning of white as it relates to population groups has historically been fluid, with people of particular ancestries being excluded for a time being included, and vice versa… Specific parameters are, however, sometimes set, as in the U.S. 2020 Census, which stipulates that ‘the category of ‘White’ includes all individuals who identify with one or more nationalities or ethnic groups originating in Europe, the Middle East, or North Africa.” (see **Middle East/MENA**)
+It notes: “The meaning of white as it relates to population groups has historically been fluid, with people of particular ancestries being excluded for a time being included, and vice versa… Specific parameters are, however, sometimes set, as in the U.S. 2020 Census, which stipulates that ‘the category of ‘White’ includes all individuals who identify with one or more nationalities or ethnic groups originating in Europe, the Middle East, or North Africa.” (see: [**Middle East/MENA**](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#middle-eastmena))
 
 The [National Association of Black Journalists](https://www.nabj.org/page/styleguide) “recommends that whenever a color is used to appropriately describe race then it should be capitalized, including White and Brown.”
 
@@ -369,7 +369,7 @@ In an [article arguing in favor of capitalizing the term White](https://zora.med
 
 If race is pertinent to the story, and your source is *White*, this is the one circumstance in which it’s not entirely up to them how they identify. The Radical Copyeditor explains in the article “[Ask a Radical Copyeditor: Are There Limits to Self-Identity Language?](https://radicalcopyeditor.com/2018/07/24/are-there-limits-to-self-identity-language/#more-1452)”: “When it comes to accurately describing dominant characteristics, that’s a really different situation. I don’t get to say, ‘I’m not white; that word doesn’t resonate with me.’ Regardless of whether or not I identify with the word/concept *white*, I am white. It’s an accurate descriptor. When a marginalized person claims language to describe their oppressed identity, they are **speaking themself into existence** in a society that is trying to annihilate them. When a privileged person rejects an accurate descriptor of their privileged status, they are **refusing to acknowledge that they are privileged**—that there are particular hardships they get a pass on because of this facet of who they are.”
 
-You can be more specific, using terms such as *Italian American*. Avoid *Caucasian* as an alternative to *White*, because of the history of the term (see: **race**).
+You can be more specific, using terms such as *Italian American*. Avoid *Caucasian* as an alternative to *White*, because of the history of the term (see: [**race**](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#race)).
 
 For more arguments in favor of capitalizing the W in White, see:
 
