@@ -144,34 +144,34 @@ pansexual: see [pansexual](https://symmetry-mag.github.io/style-guide/writing-ab
 [returnee](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
 [Roma, Romany, Romani](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#roma-romany-romani)  
 [schizophrenia](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#mental-illness)  
-sex  
-sexual orientation  
-sexual preference  
-sexuality  
-sign language  
-skin color  
-social construction
+[sex](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sex)  
+[sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation)  
+[sexual preference](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation)  
+[sexuality]((https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation))  
+[sign language](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#deafdeaf)  
+[skin color](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#race)  
+[social construction](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#race)  
 [spirit animal](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 straight: see [straight](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#straight), [sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation), [LGBT+](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#lgbt)  
-structural racism  
-survivor  
-systemic racism  
-they/them/their  
+[structural racism](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#racism)  
+[survivor](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#survivor)  
+[systemic racism](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#racism)  
+[they/them/their](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#pronouns)  
 [Third World](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#third-world)  
-Tourette syndrome  
-[transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
-transition  
-transsexual  
+[Tourette syndrome](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#neurodiversity)  
+transgender: see [transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender), [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender)    
+[transition](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transition)  
+[transsexual]((https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender))  
 [Tribe](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
-two-spirit  
-underrepresented minority  
-undocumented immigrant  
-victim  
-visually impaired  
+[two-spirit](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender)  
+[underrepresented minority](https://symmetry-mag.github.io/style-guide/understanding-diversity-equity-and-inclusion/#minority)  
+[undocumented immigrant](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#migration)  
+[victim](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#survivor)  
+[visually impaired](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#blind)  
 [WOC](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
-wheelchair  
-White  
+[wheelchair](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#wheelchair)  
+[White](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#white)  
 [white collar](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)  
-woman  
+[woman](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender)  
 [women of color](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
 [working class](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)
