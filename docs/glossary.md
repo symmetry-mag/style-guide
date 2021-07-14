@@ -19,6 +19,7 @@ aging
 Alaska Natives  
 alternative lifestyle  
 antisemitism  
+aromantic
 asexual  
 Asian  
 Asperger’s syndrome  
@@ -66,7 +67,8 @@ emerging economy
 equity  
 ethnic  
 ethnicity  
-exile  
+exile
+exotic
 expat  
 female  
 Filipino  
@@ -87,7 +89,8 @@ hearing impaired
 heterosexual  
 high functioning  
 Hispanic  
-homosexual  
+homosexual
+hyphenated
 identifies as  
 illegal alien/illegal immigrantv
 inclusion  
@@ -150,6 +153,7 @@ sexual preference
 sexuality  
 sign language  
 skin color  
+social construction
 spirit animal  
 straight  
 structural racism  
