@@ -87,7 +87,7 @@ gay: see [gay](https://symmetry-mag.github.io/style-guide/writing-about-gender-s
 [heterosexual](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#straight)  
 [high functioning](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#high-functioninglow-functioning)  
 [Hispanic](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#latinohispanicchicano)  
-[homosexual](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gay)
+[homosexual](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gay)  
 [hyphenated](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#dual-heritage-compound-nationalitiesethnicities)  
 identifies as: see [transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender), [out](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#out-coming-out)  
 [illegal alien/illegal immigrant](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)
