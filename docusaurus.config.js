@@ -34,6 +34,7 @@ module.exports = {
     footer: {
       style: 'dark',
       links: [
+        title: '&nbsp;',
         items: [
           {
             label: 'Terms of Use',
