@@ -30,7 +30,7 @@ In addition: “Most Indigenous communities have specific terms in their own lan
 
 ### sex
 
-*Webster’s New World College Dictionary* defines *sex* as “either of the two divisions, male or female, into which persons, animals, or plants are divided, with reference to their reproductive functions.” 
+[*Webster’s New World College Dictionary*](https://www.apstylebook.com/websters/webster-s-s-sex) defines *sex* as “either of the two divisions, male or female, into which persons, animals, or plants are divided, with reference to their reproductive functions.” 
 
 The *AP Stylebook* clarifies that “*[g]ender* is not synonymous with *sex*. *Gender* refers to a person’s social identity, while *sex* refers to biological characteristics.” 
 
