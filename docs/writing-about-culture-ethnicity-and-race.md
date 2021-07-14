@@ -102,7 +102,7 @@ AP says: “Be specific if possible, and then use biracial for people of two her
 
 [*Merriam-Webster*](https://www.merriam-webster.com/dictionary/black) defines *Black* as “of or relating to any of various population groups of especially African ancestry often considered as having dark pigmentation of the skin but in fact having a wide range of skin colors.” [*The Diversity Style Guide*](https://www.diversitystyleguide.com/) points out that *Black* can encompass a variety of identities, including “Black, African American, Afro-Caribbean, Afro-Latino and African immigrants living in the United States.”
 
-If race is pertinent to the story, ask your source for their preference on what term(s) to use. [AP](https://www.apstylebook.com/ap_stylebook/race-related-coverage) says: “Follow an individual’s preference if known, and be specific when possible and relevant. *Minneapolis has a large Somali American population because of refugee resettlement. The author is Senegalese American.*”
+If race is pertinent to the story, ask your source for their preference on what term(s) to use. The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/race-related-coverage) says: “Follow an individual’s preference if known, and be specific when possible and relevant. *Minneapolis has a large Somali American population because of refugee resettlement. The author is Senegalese American.*”
 
 AP recently updated its guidance on the capitalization of the word *Black*; it now advises writers: “Use the capitalized term as an adjective in a racial, ethnic or cultural sense: Black people, Black culture, Black literature, Black studies, Black colleges.” The stylebook explains: “Use of the capitalized Black recognizes that language has evolved, along with the common understanding that especially in the United States, the term reflects a shared identity and culture rather than a skin color alone.”
 
@@ -240,7 +240,7 @@ An institution where White students make up “50% or greater of the student enr
 
 [*Merriam-Webster*](https://www.merriam-webster.com/dictionary/Native%20American) defines *Native American* as “a member of any of the indigenous peoples of the western hemisphere.”
 
-[AP](https://www.apstylebook.com/ap_stylebook/race-related-coverage) says it’s acceptable to refer to multiple people of different tribal affiliations as *American Indians* or *Native Americans*. The [*NAJA Reporting and Indigenous Terminology Guide*](https://najanewsroom.com/wp-content/uploads/2018/11/NAJA_Reporting_and_Indigenous_Terminology_Guide.pdf), published by the Native American Journalists Association, mentions that individuals may have a preference between these terms, so if you can, it’s best to ask.
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/race-related-coverage) says it’s acceptable to refer to multiple people of different tribal affiliations as *American Indians* or *Native Americans*. The [*NAJA Reporting and Indigenous Terminology Guide*](https://najanewsroom.com/wp-content/uploads/2018/11/NAJA_Reporting_and_Indigenous_Terminology_Guide.pdf), published by the Native American Journalists Association, mentions that individuals may have a preference between these terms, so if you can, it’s best to ask.
 
 For individuals, specify which tribe they are a part of instead of using general terms. NAJA explains: “While many Indigenous people share a common history of oppression and colonialism, tribal nations are diverse and different; failing to use the actual name of the tribe you are reporting on is neither accurate, fair or thorough and undermines diversity by erasing the tribe’s identity.”
 
@@ -313,7 +313,7 @@ The [Asian American Journalists Association](https://aaja.org/2020/11/30/coverin
 
 ### people of color
 
-[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/people%20of%20color) defines person of color as “a person whose skin pigmentation is other than and especially darker than what is considered characteristic of people typically defined as white.” ([AP](https://www.apstylebook.com/ap_stylebook/race-related-coverage) advises against using *person of color* to describe an individual.)
+[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/people%20of%20color) defines person of color as “a person whose skin pigmentation is other than and especially darker than what is considered characteristic of people typically defined as white.” (The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/race-related-coverage) advises against using *person of color* to describe an individual.)
 
 The strength of an umbrella term such as *people of color* is that it recognizes commonalities shared by multiple groups that face racial discrimination. The term becomes problematic, though, when people use it to avoid saying exactly which group of people they are talking about.
 
