@@ -45,32 +45,32 @@ cisgender: see [cisgender](https://symmetry-mag.github.io/style-guide/writing-ab
 [compound nationalities/ethnicities](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#dual-heritage-compound-nationalitiesethnicities)  
 [crip/cripple](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#cripcripple)  
 [cross-dresser](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
-culture  
-Deaf/deaf  
-depression  
-Desi  
-developing world  
-developmental coordination disorder  
-diagnosis  
-dialect  
-disabled  
-diversity/diverse  
+[culture](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#culture)  
+[Deaf/deaf](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#deafdeaf)  
+[depression](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#mental-illness)  
+[Desi](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#desi)  
+[developing world](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#third-world)  
+[developmental coordination disorder](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#neurodiversity)  
+[diagnosis](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#mental-illness)  
+[dialect](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#dialect)  
+[disabled](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#disabled)   
+[diversity/diverse](https://symmetry-mag.github.io/style-guide/understanding-diversity-equity-and-inclusion#diversitydiverse)  
 [drag queen/drag king](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
 [dual heritage](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#dual-heritage-compound-nationalitiesethnicities)  
-dumb  
-dyscalculia  
-dyslexia  
-eating disorders  
-emerging economy  
-equity  
-ethnic  
-ethnicity  
-exile
-exotic
-expat  
-female  
-Filipino  
-First Nation  
+[dumb](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#deafdeaf)  
+[dyscalculia](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#neurodiversity)  
+[dyslexia](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#neurodiversity)  
+[eating disorders](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#mental-illness)  
+[emerging economy](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#third-world)  
+[equity](https://symmetry-mag.github.io/style-guide/understanding-diversity-equity-and-inclusion#equity)  
+[ethnic](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#ethnic)  
+[ethnicity](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#ethnicity)  
+[exile](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
+[exotic](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#ethnic)  
+[expat](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
+[female](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sex)  
+[Filipino](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#filipinopilipino)  
+[First Nation](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 foreign  
 framing  
 gay  
@@ -92,10 +92,10 @@ hyphenated
 identifies as  
 illegal alien/illegal immigrantv
 inclusion  
-Indian Country  
-Indigenous  
+[Indian Country](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
+[Indigenous](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 institutional racism  
-internally displaced  
+[internally displaced](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
 intersex  
 LGBT+/LGBTQ/LGBTQIA  
 Latino/Latinx  
@@ -103,23 +103,21 @@ lesbian
 lifestyle  
 low functioning  
 majoritized  
-male  
+[male](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sex)  
 man  
 MENA  
-mental illness  
+[mental illness](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#mental-illness)  
 Middle East  
-migrant  
-migration  
+[migrant](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
+[migration](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
 minoritized  
 minority  
 minority-serving institution (MSI)  
 mixed-race  
 multiracial  
 mute  
-Native/Native American  
-neurodivergent  
-neurodiversity  
-neurotypical  
+[Native/Native American](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
+[neurodivergent/neurodiversity/neurotypical](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#neurodiversity)  
 non-English words and names  
 nonbinary  
 obsessive compulsive disorder  
@@ -130,9 +128,9 @@ panic disorder
 pansexual  
 parity  
 people of color  
-Pilipino  
+[Pilipino](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#filipinopilipino)  
 portrayal  
-powwow  
+[powwow](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 predominantly White institution (PWI)  
 pronouns  
 Puerto Rico  
@@ -140,9 +138,9 @@ queer
 race  
 racialization  
 racism  
-refugee  
+[refugee](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
 representation  
-returnee  
+[returnee](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
 Roma, Romany, Romani  
 schizophrenia  
 sex  
@@ -152,24 +150,24 @@ sexuality
 sign language  
 skin color  
 social construction
-spirit animal  
+[spirit animal](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 straight  
 structural racism  
 survivor  
 systemic racism  
 they/them/their  
-Third World  
+[Third World](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#third-world)  
 Tourette syndrome  
 [transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender)  
 transition  
 transsexual  
-Tribe  
+[Tribe](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 two-spirit  
 underrepresented minority  
 undocumented immigrant  
 victim  
 visually impaired  
-WOC  
+[WOC](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
 wheelchair  
 White  
 [white collar](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)  
