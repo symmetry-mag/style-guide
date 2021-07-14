@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Writing about gender, sex and sexual orientation
 
-This section of the style guide is meant to help writers respectfully and accurately cover subjects related to gender, sex and sexual orientation. They won’t always be relevant in an article, but when they are, it’s important to write about them with care.
+This section of the style guide is meant to help writers respectfully and accurately cover subjects related to gender, sex and sexual orientation. These topics won’t always be relevant in an article, but when they are, it’s important to write about them with care.
 
 ## General terms
 
@@ -13,7 +13,7 @@ First, learn more about the terms *gender*, *sex* and *sexual orientation* and h
 
 ### gender
 
-[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/gender) defines gender as “the behavioral, cultural, or psychological traits typically associated with one sex.” The [*GLAAD Media Reference Guide - Transgender*](https://www.glaad.org/reference/transgender) glossary says: “Most people have a gender identity of man or woman (or boy or girl). For some people, their gender identity does not fit neatly into one of those two choices.”
+[*Merriam-Webster*](https://www.merriam-webster.com/dictionary/gender) defines *gender* as “the behavioral, cultural, or psychological traits typically associated with one sex.” The [*GLAAD Media Reference Guide - Transgender*](https://www.glaad.org/reference/transgender) glossary says: “Most people have a gender identity of man or woman (or boy or girl). For some people, their gender identity does not fit neatly into one of those two choices.”
 
 There are different aspects to gender, such as *gender identity* and *gender expression*. The GLAAD glossary defines *gender identity* as “[a] person's internal, deeply held sense of their gender” and *gender expression* as “[e]xternal manifestations of gender, expressed through a person's name, pronouns, clothing, haircut, behavior, voice, and/or body characteristics.”
 
@@ -32,7 +32,7 @@ In addition: “Most Indigenous communities have specific terms in their own lan
 
 *Webster’s New World College Dictionary* defines *sex* as “either of the two divisions, male or female, into which persons, animals, or plants are divided, with reference to their reproductive functions.” 
 
-The AP Stylebook clarifies that “*[g]ender* is not synonymous with *sex*. *Gender* refers to a person’s social identity, while *sex* refers to biological characteristics.” 
+The *AP Stylebook* clarifies that “*[g]ender* is not synonymous with *sex*. *Gender* refers to a person’s social identity, while *sex* refers to biological characteristics.” 
 
 The [GLAAD glossary](https://www.glaad.org/reference/transgender) says: “At birth, infants are assigned a sex, usually based on the appearance of their external anatomy. (This is what is written on the birth certificate.) A person's sex, however, is actually a combination of bodily characteristics including: chromosomes, hormones, internal and external reproductive organs, and secondary sex characteristics.” Some people’s bodies contain a mixture of characteristics associated with the male sex and characteristics associated with the female sex. (see: **intersex**)
 
@@ -54,6 +54,7 @@ GLAAD points out that “[g]ender identity and sexual orientation are not the sa
 
 ## Style guide
 
+This is a selection of more specific terms. You can find many additional entries in the guides referenced.
 
 ### agender
 
@@ -87,7 +88,7 @@ AP defines *cisgender* as “people whose gender identity matches the [sex] they
 
 In the article “[Ask a Radical Copyeditor: Are There Limits to Self-Identity Language?](https://radicalcopyeditor.com/2018/07/24/are-there-limits-to-self-identity-language/),” Alex Kapitan notes that “*cis* is not (necessarily) an identity, it is a neutral description of the interaction between a person’s identity and their birth-assigned sex.” The [*GLAAD Media Reference Guide - Transgender*](https://www.glaad.org/reference/transgender) explains: “‘Cis-’ is a Latin prefix meaning ‘on the same side as,’ and is therefore an antonym of ‘trans-.’”
 
-The Radical Copyeditor notes: “A more widely understood way to describe people who are not transgender is simply to say *non-transgender people*.” AP says: “Do not use terms like normal to describe people who are not *transgender*.”
+The Radical Copyeditor notes: “A more widely understood way to describe people who are not transgender is simply to say *non-transgender people*.” AP says: “Do not use terms like *normal* to describe people who are not *transgender*.”
 
 
 ### gay
@@ -155,7 +156,7 @@ NLGJA advises: “Avoid words like *acknowledged, avowed, admitted, confessed* o
 
 ### pansexual
 
-The [NLGJA stylebook](https://www.nlgja.org/stylebook/terminology/) uses pansexual to refer to “someone who experiences attraction without regard to sex, gender identity or gender expression.”
+The [NLGJA stylebook](https://www.nlgja.org/stylebook/terminology/) uses *pansexual* to refer to “someone who experiences attraction without regard to sex, gender identity or gender expression.”
 
 
 ### pronouns
@@ -164,7 +165,7 @@ The [NLGJA stylebook](https://www.nlgja.org/stylebook/terminology/) stylebook sa
 
 [The Trans Journalists Association style guide](https://transjournalists.org/style-guide/) says it’s generally best not to call attention to a source’s pronouns, explaining: “Reporters never write a sentence to explain a cis source’s pronouns. For example: ‘Jill, who uses she/her pronouns, attended the event.’ If we don’t emphasize cis people’s pronouns, we shouldn’t need to explain trans people’s pronouns — especially when they are common pronouns like he, she, and they.” But “[w]hen a source uses less common pronouns, it’s acceptable to have a quick, appositive phrase mentioning their pronouns. For example: Taylor, who uses ze/hir pronouns, attended the event.”
 
-NLGJA notes: “Avoid references to *preferred* pronouns because doing so implies that calling people other than what they want to be called is a viable alternative. Avoid references to chosen pronouns because they are not always chosen. Instead, when relevant: *Sanchez, who uses the pronoun they or Sanchez, whose pronouns are they/them/their.*”
+NLGJA notes: “Avoid references to *preferred* pronouns because doing so implies that calling people other than what they want to be called is a viable alternative. Avoid references to chosen pronouns because they are not always chosen. Instead, when relevant: *Sanchez, who uses the pronoun they* or *Sanchez, whose pronouns are they/them/their.*”
 
 The Trans Journalists Association says to avoid using the terms *female/feminine pronouns* and *male/masculine pronouns*, as “[n]ot all people who use she/her are women, and not all people who use he/him are men.”
 
@@ -193,7 +194,7 @@ The [GLAAD glossary](https://www.glaad.org/reference/lgbtq) uses *straight* “d
 
 NLGJA advises describing someone as *transgender* “only when relevant to the subject matter and only if they are widely known or describe themselves as such. Otherwise, describe *trans men* as men and *trans women* as women.”
 
-AP says not to use the word transgender “as a noun, such as referring to someone as a *transgender*, or use the term *transgendered*.” It points out the transgender is “[n]ot synonymous with terms like *cross-dresser* or *drag queen*, which do not have to do with gender identity” and advises against using “the outdated term *transsexual*.”
+AP says not to use the word transgender “as a noun, such as referring to someone as *a transgender*, or use the term *transgendered*.” It points out the transgender is “[n]ot synonymous with terms like *cross-dresser* or *drag queen* [or *drag king*], which do not have to do with gender identity” and advises against using “the outdated term *transsexual*.”
 
 [The GLAAD Media Guide - Transgender](https://www.glaad.org/reference/transgender) notes: “It is never appropriate to put quotation marks around either a transgender person's chosen name or the pronoun that reflects that person's gender identity.”
 
@@ -203,7 +204,7 @@ The [GLAAD glossary](https://www.glaad.org/reference/transgender) says: “Many 
 
 [The Radical Copyeditor](https://radicalcopyeditor.com/2017/08/31/transgender-style-guide/) points out that *transgender* is not a sexual orientation (so don’t use *straight* or *heterosexual* as an antonym). Kapitan also points out that some transgender people are nonbinary (so say *transgender people* or *people of all genders* rather than *transgender women and men*).
 
-For more related terms, see The [Trans Language Primer](#enby).
+For more related terms, see The [Trans Language Primer](https://www.translanguageprimer.org/primer).
 
 
 ### transition
@@ -212,32 +213,4 @@ The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-and-sexuali
 
 The [*GLAAD Media Reference Guide - Transgender*](https://www.glaad.org/reference/transgender) explains: “Altering one's birth sex is not a one-step procedure; it is a complex process that occurs over a long period of time. Transition can include some or all of the following personal, medical, and legal steps: telling one's family, friends, and co-workers; using a different name and new pronouns; dressing differently; changing one's name and/or sex on legal documents; hormone therapy; and possibly (though not always) one or more types of surgery. The exact steps involved in transition vary from person to person.” 
 
-You should use a trans person’s current name and pronouns, even when writing about a time before they transitioned. [The Radical Copyeditor](https://radicalcopyeditor.com/2017/08/31/transgender-style-guide/) explains: “Some trans people do use a different name and/or pronouns to talk about themselves prior to transition, but this is rare. Unless you are told differently by a trans person themself, only use the person’s true/current name and pronouns, even when writing about them in the past.”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Generally, you should use a trans person’s current name and pronouns even when writing about a time before they transitioned. [The Radical Copyeditor](https://radicalcopyeditor.com/2017/08/31/transgender-style-guide/) explains: “Some trans people do use a different name and/or pronouns to talk about themselves prior to transition, but this is rare. Unless you are told differently by a trans person themself, only use the person’s true/current name and pronouns, even when writing about them in the past.”
