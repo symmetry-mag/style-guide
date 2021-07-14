@@ -5,8 +5,8 @@ sidebar_position: 7
 
 # Glossary
 
-[AAPI](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#asian)  
-[ADHD/ADD](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#adhd)  
+[AAPI](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#asian)
+[ADHD/ADD](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#adhd)
 [able-bodied](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#able-bodied)
 [accent marks](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#accent-marks)
 [accessible](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#accessible)
