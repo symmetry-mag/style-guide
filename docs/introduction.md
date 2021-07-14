@@ -17,10 +17,13 @@ As people, we change the words we use to describe ourselves over time—because 
 This style guide is meant to give writers tools to write in ways that (1) avoid replicating patterns that cause harm to the people we write about and the people who read our writing, (2) are accurate and avoid inviting readers to make assumptions about individuals and groups, and (3) uplift in particular individuals and groups who are most affected by the words used to describe them, and who have not always had agency over how they are described. Note that the guide is based on input mostly from communities in the United States.
  
  
-The guide is divided into five sections:
+The guide is divided into five sections. First, there are:
 
-- [Understanding diversity, equity and inclusion](understanding-diversity-equity-and-inclusion)
-- [Writing about people with dignity](writing-about-people-with-dignity)
+- [Understanding diversity, equity and inclusion](understanding-diversity-equity-and-inclusion), which introduces some basic ideas; and
+- [Writing about people with dignity](writing-about-people-with-dignity), which introduces some basic principles
+
+And then the guide gets into specific topics:
+
 - [Writing about aging and disability](writing-about-aging-and-disability)
 - [Writing about gender, sex and sexual orientation](writing-about-gender-sex-and-sexual-orientation)
 - [Writing about culture, ethnicity and race](writing-about-culture-ethnicity-and-race)
