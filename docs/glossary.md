@@ -174,4 +174,4 @@ WOC: see [people of color](https://symmetry-mag.github.io/style-guide/writing-ab
 [white collar](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)  
 woman: see [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender)  
 women of color: see [people of color](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#people-of-color)  
-[working class](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)
+working class: see [blue collar/white collar](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#blue-collarwhite-collar)
