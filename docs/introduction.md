@@ -6,7 +6,7 @@ slug: /
 
 # Symmetry style guide: Writing about people with dignity
 
-*by Kathryn Jepsen, last updated 07/14/21*
+*by Kathryn Jepsen, last updated 07/15/21*
 
 ---
 
@@ -19,7 +19,7 @@ This style guide is meant to give writers tools to write in ways that:
 2. are accurate and avoid inviting readers to make assumptions about individuals and groups, and  
 3. uplift in particular individuals and groups who are most affected by the words used to describe them, and who have not always had agency over how they are described. 
  
-Note that the guide is based on input mostly from communities in the United States. And note that language will continue to evolve, so this guide will need to be updated to reflect that. 
+Note that the guide is based on input mostly from communities in the United States. Also note that the primary intended audience for this style guide is reporters writing nonfiction articles for publications such as *Symmetry* (though it could be useful for others as well). Lastly, note that language will continue to evolve, so this guide will need to be updated to reflect that.  
  
 The guide is divided into five sections.  
 
