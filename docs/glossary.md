@@ -130,7 +130,6 @@ pansexual: see [pansexual](https://symmetry-mag.github.io/style-guide/writing-ab
 [parity](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity#parity)  
 [people of color](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#people-of-color)  
 [Pilipino](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#filipinopilipino)  
-[portrayal](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity#portrayal)  
 powwow: see [Native American](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 predominantly White institution (PWI): see [minority-serving institutions](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#minority-serving-institutions)  
 [pronouns](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#pronouns)  
