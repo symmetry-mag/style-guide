@@ -12,16 +12,21 @@ slug: /
 
 This style guide is meant to help writers write about people.
  
-As people, we change the words we use to describe ourselves over time—because words themselves change over time. Words accumulate new context each time they are used, and we adjust our relationships with them, aware of how their connotations shape how we are perceived and how we perceive ourselves.
+We people change the words we use to describe ourselves over time&mdash;because words themselves change over time. Words accumulate new context each time they are used, and we adjust our relationships with them, aware of how their connotations shape how we are perceived and how we perceive ourselves.
  
-This style guide is meant to give writers tools to write in ways that (1) avoid replicating patterns that cause harm to the people we write about and the people who read our writing, (2) are accurate and avoid inviting readers to make assumptions about individuals and groups, and (3) uplift in particular individuals and groups who are most affected by the words used to describe them, and who have not always had agency over how they are described. Note that the guide is based on input mostly from communities in the United States.  
+This style guide is meant to give writers tools to write in ways that:  
+1. avoid replicating patterns that cause harm to the people we write about and the people who read our writing,  
+2. are accurate and avoid inviting readers to make assumptions about individuals and groups, and  
+3. uplift in particular individuals and groups who are most affected by the words used to describe them, and who have not always had agency over how they are described. 
+ 
+Note that the guide is based on input mostly from communities in the United States.  
  
 The guide is divided into five sections.  
 
 The first two are introductory:  
 
 - [Understanding diversity, equity and inclusion](https://symmetry-mag.github.io/style-guide/understanding-diversity-equity-and-inclusion), which introduces some basic ideas; and
-- [Writing about people with dignity](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity), which introduces some basic principles.
+- [Some principles for writing about people with dignity](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity), which introduces some basic principles.
 
 After that, the guide gets into specific topics:
 
