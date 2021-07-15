@@ -14,12 +14,6 @@ Yin defines *parity* as “how we treat people in parallel contexts.” For exam
 After two swimmers achieved historic firsts at the Olympics&mdash;Michael Phelps for earning a record number of gold medals and Simone Manuel for being the first African American woman in the sport to win an individual gold&mdash;a San Jose newspaper used the headline: “Michael Phelps shares historic night with African American.” After complaints that the headline unfairly erased Manuel, the paper changed it to: “Olympics: Stanford’s Simone Manuel and Michael Phelps make history.”
 
 
-## portrayal
-
-Yin defines *portrayal* as “how we present and describe people.” Prioritize being specific in your descriptions rather than generalizing. 
-
-For example, reconsider using the phrase "people of color" when you really mean "Black people." Think twice about how something will affect "LGBT+ people" when you aren't actually considering how it will affect people who are trans.
-
 ## framing
 
 Yin defines *framing* as “how we assign interpretations and conclusions.” Yin writes: “Consider these words: Sound vs. noise. Plant vs. weed. Religion vs. cult. We can infuse judgment into any description by selecting judge-y words, but often, judge-y words were selected due to an underlying racial bias [this also applies to other types of bias] about people’s nature and their motivations, and this affects how the whole event is framed.”
