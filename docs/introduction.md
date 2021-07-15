@@ -12,7 +12,7 @@ slug: /
 
 This style guide is meant to help writers write about people.
  
-The words we use to describe ourselves change over time&mdash;because over time, words themselves change. Words accumulate new context each time they are used, and we adjust our relationships with them, aware of how their connotations shape how we are perceived and how we perceive ourselves.
+The words we use to describe ourselves change over time. That's because over time, words themselves change. Words accumulate new context each time they are used, and we adjust our relationships with them, aware of how their connotations shape how we are perceived and how we perceive ourselves.
 
 This style guide is meant to give writers tools to write in ways that:  
 1. avoid replicating patterns that have caused harm to the people we write about and to the people who read our writing,  
