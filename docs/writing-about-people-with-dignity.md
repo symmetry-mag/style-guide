@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Writing about people with dignity
 
-Writing about people with dignity involves more than just using the “right” words. In the article [“Beyond Terminology: Zooming Out to Focus on Bias,”](https://consciousstyleguide.com/beyond-terminology-zooming-focus-bias/) Karin Yin, founder of Conscious Style Guide, recommends checking for bias in writing at four levels:
+Writing about people with dignity involves more than just using the “right” words. In the article [“Beyond Terminology: Zooming Out to Focus on Bias,”](https://consciousstyleguide.com/beyond-terminology-zooming-focus-bias/) Karin Yin, founder of Conscious Style Guide, recommends checking for bias in writing at multiple levels:
 
 
 ## parity
