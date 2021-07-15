@@ -96,7 +96,7 @@ Indian Country: see [Native American](https://symmetry-mag.github.io/style-guide
 Indigenous: see [Native American](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#native-american)  
 institutional racism: see [racism](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#racism)  
 internally displaced: see [migration](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#migration)  
-[intersex](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#intersex)  
+intersex: see [intersex](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#intersex), [sex](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sex)  
 [LGBT+/LGBTQ/LGBTQIA](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#lgbt)  
 [Latino/Latinx](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#latinohispanicchicano)  
 lesbian: see [lesbian](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#lesbian), [sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation)  
