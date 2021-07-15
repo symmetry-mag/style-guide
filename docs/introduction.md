@@ -25,8 +25,8 @@ The guide is divided into five sections.
 
 The first two are introductory:  
 
-- [Understanding diversity, equity and inclusion](https://symmetry-mag.github.io/style-guide/understanding-diversity-equity-and-inclusion), which introduces some basic ideas; and
-- [Some principles for writing about people with dignity](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity), which introduces some basic principles.
+- [Understanding diversity, equity and inclusion](https://symmetry-mag.github.io/style-guide/understanding-diversity-equity-and-inclusion) introduces some basic ideas.
+- [Some principles for writing about people with dignity](https://symmetry-mag.github.io/style-guide/writing-about-people-with-dignity) introduces some basic principles.
 
 After that, the guide gets into specific topics:
 
