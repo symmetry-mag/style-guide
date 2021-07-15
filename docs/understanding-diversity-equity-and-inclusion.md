@@ -10,7 +10,7 @@ First, read about some important related terms:
 
 
 ## communities
-According to *Webster’s New World College Dictionary*, the word *community* can refer to “a group of people forming a smaller social unit within a larger one, and sharing common interests, work, identity, location, etc.” This word is sometimes used to describe a group (for example, *the disability community, the gay community, the Korean community*).
+According to [*Webster’s New World College Dictionary*](https://www.apstylebook.com/websters/webster-s-c-community), the word *community* can refer to “a group of people forming a smaller social unit within a larger one, and sharing common interests, work, identity, location, etc.” This word is sometimes used to describe a group (for example, *the disability community, the gay community, the Korean community*).
 
 But in the guide [*Covering Asia and Asian Americans*](https://www.aaja.org/2020/11/30/covering-asia-and-asian-americans/), the Asian American Journalists Association points out that using a phrase like *the Korean community* “implies a shared like-mindedness that no reporter can possibly confirm.” In its [*style guide*](https://www.motherjones.com/media/2020/02/mother-jones-style-guide/#race), the publication *Mother Jones* offers an alternative: “Consider using the plural ‘communities’ rather than singular… to avoid implying a monolith.”
 
