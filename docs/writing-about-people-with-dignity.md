@@ -31,7 +31,7 @@ For example, in their [style guide](https://www.nabj.org/page/styleguide), the N
 Representation, or “how we balance population, proportion and perception”&mdash;Yin writes: “Instead of returning to the same stories, casting the same characters, recreating the same associations, tell a different story. One way is by putting a spotlight on subgroups that experience erasure within communities already marginalized. The most visible are not representative of the community.”
 
 
-## final thought
+## imagining your audience
 
 As a final thought, Yin advises making sure the audience you picture when you write is a diverse one. Your audience includes all of the people described in this guide. To paraphrase Yin: Write *to* all members of this diverse audience, not just *about* them.
 
