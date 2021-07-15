@@ -264,7 +264,7 @@ NAJA urges writers to “avoid referring to Indigenous people as possessions of 
 
 According to NAJA: “The term ‘Native’ can be used as an adjective to describe styles. For instance, Native fashion, Native music, or Native art. Journalists should exercise caution when using the word, though, as it is primarily used as slang.” The book *Elements of Indigenous Style* notes that the term *Native* “has fallen out of use in Canada for the most part… The term is problematic because of possible confusion with its wider definition of a ‘local inhabitant or life form,’ and because it does not denote that there are many distinct Indigenous groups.” (pg. 58)
 
-#### Tribe
+#### tribe
 
 AP says to use *tribe* to describe “a sovereign political entity, communities sharing a common ancestry, culture or language, and a social group of linked families who may be part of an ethnic group.” It should be capitalized when part of a formal name. AP says to “identify tribes by the political identity specified by the tribe, nation or community: *the Apache Tribe of Oklahoma*, *the Cherokee Nation*.”
 
