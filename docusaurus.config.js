@@ -12,7 +12,6 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'symmetry-mag', // Usually your GitHub org/user name.
   projectName: 'style-guide', // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-gtag'],
   themeConfig: {
     gtag: {
       // You can also use your "G-" Measurement ID here.
