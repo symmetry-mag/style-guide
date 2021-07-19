@@ -12,7 +12,14 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'symmetry-mag', // Usually your GitHub org/user name.
   projectName: 'style-guide', // Usually your repo name.
+  plugins: ['@docusaurus/plugin-google-gtag'],
   themeConfig: {
+    gtag: {
+      // You can also use your "G-" Measurement ID here.
+      trackingID: 'G-KK19VBQ13M',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     algolia: {
       apiKey: 'YOUR_API_KEY',
       indexName: 'YOUR_INDEX_NAME',
