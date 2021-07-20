@@ -18,8 +18,8 @@ module.exports = {
       trackingID: 'G-KK19VBQ13M',
     },
     algolia: {
-      apiKey: 'YOUR_API_KEY',
-      indexName: 'YOUR_INDEX_NAME',
+      apiKey: '1fbaabd095088b8d662e3ce747591964',
+      indexName: 'symmetry-mag',
 
       // Optional: see doc section below
       contextualSearch: true,
