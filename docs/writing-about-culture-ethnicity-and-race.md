@@ -124,7 +124,7 @@ The term *Brown*, a racial identity distinct from Black or White, is used by ind
 
 [The National Association of Black Journalists style guide](https://www.nabj.org/page/styleguide) “recommends that whenever a color is used to appropriately describe race then it should be capitalized, including White and Brown.”
 
-In a comment in the “Conscious Language + Design” Facebook group on April 26, 2021, Karen Yin of [Conscious Style Guide](https://consciousstyleguide.com/) recommended thinking about whom the term *Brown* excludes. “If certain groups of color are excluded from Black and Brown, and if racial discussions revolve around only White, Black and Brown people, then what happened to the rest of us? How much have the perpetual exclusion and invisibility of Asian Americans contributed to recent hate crimes?”
+In a comment in a conscious language Facebook group on April 26, 2021, Karen Yin of [Conscious Style Guide](https://consciousstyleguide.com/) recommended thinking about whom the term *Brown* excludes. “If certain groups of color are excluded from Black and Brown, and if racial discussions revolve around only White, Black and Brown people, then what happened to the rest of us? How much have the perpetual exclusion and invisibility of Asian Americans contributed to recent hate crimes?”
 
 
 ### Desi
