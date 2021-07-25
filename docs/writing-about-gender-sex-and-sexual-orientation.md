@@ -111,12 +111,12 @@ Shelley also says: "Using the singular *they* can be a good choice for avoiding 
 
 Shelley recommends gender-neutral alternatives to several gendered terms, such as:
 * man/mankind &rightarrow; people, humanity, humans, mortals
-* manned -> operated, piloted, crewed
-* manmade -> manufactured, artificial, synthetic
-* policeman, mailman, chairman -> police officer, mail carrier, chair
-* stewardess, waitress, comedienne -> flight attendant, server, comedian
-* mom and dad -> parents, adults, grown-ups
-* husband and wife -> partners, spouses
+* manned &rightarrow; operated, piloted, crewed
+* manmade &rightarrow; manufactured, artificial, synthetic
+* policeman, mailman, chairman &rightarrow; police officer, mail carrier, chair
+* stewardess, waitress, comedienne &rightarrow; flight attendant, server, comedian
+* mom and dad &rightarrow; parents, adults, grown-ups
+* husband and wife &rightarrow; partners, spouses
 
 AP offers "first-year student" as an alternative to "freshman."
 
