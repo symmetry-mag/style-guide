@@ -107,6 +107,8 @@ The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-neutral-lan
 
 On her website, [Rabbit with a Red Pen](https://www.rabbitwitharedpen.com/blog/gender-and-inclusive-language), editor Crystal Shelley points out that "[t]he phrases *men and women*, *ladies and gentlemen*, *boys and girls*, and *guys and gals* are commonly used with the intent to represent everyone, but they don't. There are many alternatives depending on what the group is: people, citizens, guests, friends, etc. 'The men and women who work on the front lines are heroes' can easily be changed to 'The frontline workers are heroes' or 'The people who work on the front lines are heroes.'"
 
+Shelley also says: "Using the singular *they* can be a good choice for avoiding the outdatedness of *he* as a default pronoun, the unnatural distance of *one*, or the clunkiness of *he or she*." [see [**use of the singular they**](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation#use-of-the-singular-they)]
+
 Shelley recommends gender-neutral alternatives to several gendered terms, such as:
 * man/mankind -> people, humanity, humans, mortals
 * manned -> operated, piloted, crewed
@@ -115,6 +117,8 @@ Shelley recommends gender-neutral alternatives to several gendered terms, such a
 * stewardess, waitress, comedienne -> flight attendant, server, comedian
 * mom and dad -> parents, adults, grown-ups
 * husband and wife -> partners, spouses
+
+AP offers "first-year student" as an alternative to "freshman."
 
 
 ### gender non-conforming
