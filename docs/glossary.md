@@ -75,7 +75,7 @@ foreign: see [non-English words and names](https://symmetry-mag.github.io/style-
 [framing](https://symmetry-mag.github.io/style-guide/some-principles-for-writing-about-people-with-dignity#framing)  
 gay: see [gay](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gay), [sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#sexual-orientation)  
 [gender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender)  
-[gender-neutral language](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender-neutral-language)
+[gender-neutral language](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender-neutral-language)  
 [gender non-conforming](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#gender-non-conforming)  
 [genderfluid](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#genderfluid)  
 [geographic references](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#geographic-references)  
