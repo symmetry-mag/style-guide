@@ -101,6 +101,22 @@ The [GLAAD glossary](https://www.glaad.org/reference/lgbtq) uses *gay* to descri
 [The Trans Journalists Association style guide](https://transjournalists.org/style-guide/) defines *genderfluid* as “[a] non-binary gender or word to describe someone’s gender that often means someone whose gender fluctuates or is not fixed.”
 
 
+### gender-neutral language
+
+The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/gender-neutral-language) says: "In general, use terms that can apply to any gender. Such language aims to treat people equally and is inclusive of people whose gender identity is not strictly male or female." 
+
+On her website, [Rabbit with a Red Pen](https://www.rabbitwitharedpen.com/blog/gender-and-inclusive-language), editor Crystal Shelley points out that "[t]he phrases *men and women*, *ladies and gentlemen*, *boys and girls*, and *guys and gals* are commonly used with the intent to represent everyone, but they don't. There are many alternatives depending on what the group is: people, citizens, guests, friends, etc. 'The men and women who work on the front lines are heroes' can easily be changed to 'The frontline workers are heroes' or 'The people who work on the front lines are heroes.'"
+
+Shelley recommends gender-neutral alternatives to several gendered terms, such as:
+* man/mankind -> people, humanity, humans, mortals
+* manned -> operated, piloted, crewed
+* manmade -> manufactured, artificial, synthetic
+* policeman, mailman, chairman -> police officer, mail carrier, chair
+* stewardess, waitress, comedienne -> flight attendant, server, comedian
+* mom and dad -> parents, adults, grown-ups
+* husband and wife -> partners, spouses
+
+
 ### gender non-conforming
 
 The [GLAAD glossary](https://www.glaad.org/reference/transgender) defines *gender non-conforming* as “[a] term used to describe some people whose gender expression is different from conventional expectations of masculinity and femininity.”
