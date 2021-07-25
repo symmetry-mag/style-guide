@@ -110,7 +110,7 @@ On her website, [Rabbit with a Red Pen](https://www.rabbitwitharedpen.com/blog/g
 Shelley also says: "Using the singular *they* can be a good choice for avoiding the outdatedness of *he* as a default pronoun, the unnatural distance of *one*, or the clunkiness of *he or she*." [see [**use of the singular they**](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation#use-of-the-singular-they)]
 
 Shelley recommends gender-neutral alternatives to several gendered terms, such as:
-* man/mankind -> people, humanity, humans, mortals
+* man/mankind &rightarrow; people, humanity, humans, mortals
 * manned -> operated, piloted, crewed
 * manmade -> manufactured, artificial, synthetic
 * policeman, mailman, chairman -> police officer, mail carrier, chair
