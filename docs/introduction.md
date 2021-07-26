@@ -6,7 +6,7 @@ slug: /
 
 # Symmetry style guide: Writing about people with dignity
 
-*by Kathryn Jepsen, last updated 07/15/21*
+*by Kathryn Jepsen, last updated 07/25/21*
 
 ---
 
