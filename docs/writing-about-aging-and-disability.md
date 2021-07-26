@@ -47,7 +47,7 @@ Writer Lydia X. Z. Brown suggests atlernatives to disability-related metaphors o
 * lame &rightarrow; boring, uninteresting, monotonous, uncool
 * OCD &rightarrow; fastidious, meticulous, hyper-focused
 
-These metaphors show up in writing about science and computing, in terms such as "double-blind review." (Brown suggests the alternative "doubly anonymous review.") The [Google Developer Documentation Style Guide](https://developers.google.com/style/inclusive-documentation) suggests similar alternatives, replacing the phrase "cripples the service," with "slows down the service," and the term "sanity-check" with "check for completeness and clarity."
+These metaphors show up in writing about science and computing, in terms such as "double-blind review." (Brown suggests the alternative "doubly anonymous review.") The [*Google developer documentation style guide*](https://developers.google.com/style/inclusive-documentation) suggests similar alternatives, replacing the phrase "cripples the service," with "slows down the service," and the term "sanity-check" with "check for completeness and clarity."
 
 In its [*Guidelines: How to Write about People with Disabilities*](https://rtcil.org/products/media/guidelines), the University of Kansas Research & Training Center on Independent Living points out: “People with disabilities are the largest minority group in America, and the only group that any person can join at any time&mdash;through disease, traumatic event, or other reason. Like other minority groups, there is much diversity within the disability community, and people with disabilities don’t want to be stereotyped when their stories are told.”
 
