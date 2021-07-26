@@ -129,7 +129,7 @@ NCDJ says to avoid the terms *mute* and *dumb*, as they “imply that communicat
 
 If possible, avoid using this vague term in favor of naming a specific diagnosis. The [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/disabilities) says to “[s]pecify the time frame for the diagnosis and ask about treatment.”
 
-Don’t use mental health terms as metaphors. See [*The Carter Center Journalism Resource Guide on Behavioral Health*](https://www.cartercenter.org/resources/pdfs/health/mental_health/2015-journalism-resource-guide-on-behavioral-health.pdf) for tips on writing about mental illness. See the National Eating Disorders Association’s “[Sharing Your Story Publicly](https://www.nationaleatingdisorders.org/community/sharing-your-story-responsibly)” for tips on writing about eating disorders.
+Don’t use mental health terms as metaphors. [See [**disabled**](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability/#disabled)] See [*The Carter Center Journalism Resource Guide on Behavioral Health*](https://www.cartercenter.org/resources/pdfs/health/mental_health/2015-journalism-resource-guide-on-behavioral-health.pdf) for tips on writing about mental illness. See the National Eating Disorders Association’s “[Sharing Your Story Publicly](https://www.nationaleatingdisorders.org/community/sharing-your-story-responsibly)” for tips on writing about eating disorders.
 
 
 ### neurodiversity
