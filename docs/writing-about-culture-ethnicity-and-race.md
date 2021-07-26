@@ -86,6 +86,8 @@ But in its guide, [*Covering Asia and Asian Americans*](https://aaja.org/2020/11
 
 Be more specific, if possible. If race is pertinent to the story, ask your source for their preference on what term(s) to use. Do not use the outdated term *Oriental*, which AAJA describes as “[a] vestige of European imperialism,” “a term of condescension” and “at minimum… vague.”
 
+Just as you would not call someone who is African American simply "African," do not call someone who is Asian American simply "Asian."
+
 *AAPI*, which stands for Asian Americans and Pacific Islanders, is an acronym “widely used by people within these communities” but may not be familiar to readers outside of them, the [*AP Stylebook*](https://www.apstylebook.com/ap_stylebook/race-related-coverage) notes. AP recommends: “Spell out the full term; use AAPI only in direct quotations and explain the term.”
 
 
