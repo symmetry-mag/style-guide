@@ -41,11 +41,11 @@ AP recommends writers stay away from descriptions of disabled people “that con
 Avoid using disability as a metaphor in phrases such as "fell on deaf ears" or "blind to the consequences." As Rachel Cohen-Rottenberg writes on the website [Disability and Representation](http://www.disabilityandrepresentation.com/2013/09/14/ableist-language/): "The stories that disability metaphors tell are deeply problematic, deeply destructive, and deeply resonant of the kinds of violence and oppression that disabled people have faced over the course of many centuries. They perpetuate negative and disempowering views of disabled people, and these views wind their ways into all of the things that most people feel are important. If a culture's language is full of pejorative metaphors about a group of people, that culture is not going to see those people as fully entitled to the same housing, employment, medical care, education, access, and inclusion as people in a more favored group." 
 
 Writer Lydia X. Z. Brown suggests atlernatives to disability-related metaphors on their blog, [Autistic Hoya](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html). For example:
-* blind to/deaf to &arrowright; willfully ignorant, deliberately ignoring
-* crazy/schizophrenic &arrowright; wild, confusing, unpredictable
-* dumb/idiotic/stupid &arrowright; ignorant, impulsive, foolish, uninformed
-* lame &arrowright; boring, uninteresting, monotonous, uncool
-* OCD &arrowright; fastidious, meticulous, hyper-focused
+* blind to/deaf to &rightarrow; willfully ignorant, deliberately ignoring
+* crazy/schizophrenic &rightarrow; wild, confusing, unpredictable
+* dumb/idiotic/stupid &rightarrow; ignorant, impulsive, foolish, uninformed
+* lame &rightarrow; boring, uninteresting, monotonous, uncool
+* OCD &rightarrow; fastidious, meticulous, hyper-focused
 
 These metaphors show up in writing about science and computing, in terms such as "double-blind review." (Brown suggests the alternative "doubly anonymous review.") The [Google Developer Documentation Style Guide](https://developers.google.com/style/inclusive-documentation) suggests similar alternatives, replacing the phrase "cripples the service," with "slows down the service," and the term "sanity-check" with "check for completeness and clarity."
 
