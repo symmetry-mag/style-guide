@@ -9,6 +9,10 @@ sidebar_position: 6
 
 ## References for writing about aging and disability
 
+Brown, Lydia X. Z. "Glossary of Ableist Phrases." Autistic Hoya, 27 February 2021, [https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html)
+
+Cohen-Rottenberg, Rachel. "Doing Social Justice: Thoughts on Ableist Language and Why It Matters." Disability and Representation, 14 September 2013, [http://www.disabilityandrepresentation.com/2013/09/14/ableist-language/](http://www.disabilityandrepresentation.com/2013/09/14/ableist-language/)
+
 Dahmen, Nicole S. and Cozma, Raluca, Editors. “Media Takes: On Aging” [PDF]. International Longevity Center – USA, 2009, [https://www.issuelab.org/resources/11981/11981.pdf](https://www.issuelab.org/resources/11981/11981.pdf)
  
 “Disabilities.” AP Stylebook, accessed 8 February, 2021, [https://www.apstylebook.com/ap_stylebook/disabilities](https://www.apstylebook.com/ap_stylebook/disabilities)
@@ -30,6 +34,8 @@ Dahmen, Nicole S. and Cozma, Raluca, Editors. “Media Takes: On Aging” [PDF].
 “The Carter Center Journalism Resource Guide on Behavioral Health” [PDF]. The Carter Center, accessed 8 February 2021, [https://www.cartercenter.org/resources/pdfs/health/mental_health/2015-journalism-resource-guide-on-behavioral-health.pdf](https://www.cartercenter.org/resources/pdfs/health/mental_health/2015-journalism-resource-guide-on-behavioral-health.pdf)
  
 Walker, Nick. “Neurodiversity: Some Basic Terms & Definitions.” Neurocosmopolitanism, 27 September 2014, [https://neurocosmopolitanism.com/neurodiversity-some-basic-terms-definitions/](https://neurocosmopolitanism.com/neurodiversity-some-basic-terms-definitions/)
+
+"Writing inclusive documentation." Google developer documentation style guide, accessed 25 July 2021, [https://developers.google.com/style/inclusive-documentation](https://developers.google.com/style/inclusive-documentation)
 
 
 
