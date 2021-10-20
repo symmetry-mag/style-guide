@@ -34,7 +34,7 @@ After that, the guide gets into specific topics:
 - [Writing about gender, sex and sexual orientation](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation), and
 - [Writing about culture, ethnicity and race](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race).
 
-It also includes a list of [references](https://symmetry-mag.github.io/style-guide/references) and a [glossary](https://symmetry-mag.github.io/style-guide/glossary).
+It also includes a list of [references](https://symmetry-mag.github.io/style-guide/references) and an [index](https://symmetry-mag.github.io/style-guide/index).
 
 
 
