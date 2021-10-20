@@ -3,7 +3,7 @@ sidebar_position: 7
 ---
 
 
-# Glossary
+# Index
 
 AAPI: see [Asian](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#asian)  
 [ADHD/ADD](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#adhd)  
