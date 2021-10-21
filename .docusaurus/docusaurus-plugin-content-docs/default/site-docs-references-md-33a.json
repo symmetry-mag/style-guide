@@ -7,7 +7,7 @@
   "source": "@site/docs/references.md",
   "sourceDirName": ".",
   "slug": "/references",
-  "permalink": "/references",
+  "permalink": "/style-guide/references",
   "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/references.md",
   "version": "current",
   "sidebarPosition": 6,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Writing about culture, ethnicity and race",
-    "permalink": "/writing-about-culture-ethnicity-and-race"
+    "permalink": "/style-guide/writing-about-culture-ethnicity-and-race"
   },
   "next": {
     "title": "Index",
-    "permalink": "/guide-index"
+    "permalink": "/style-guide/guide-index"
   }
 }

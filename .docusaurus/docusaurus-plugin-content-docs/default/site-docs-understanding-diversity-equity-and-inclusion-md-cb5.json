@@ -7,7 +7,7 @@
   "source": "@site/docs/understanding-diversity-equity-and-inclusion.md",
   "sourceDirName": ".",
   "slug": "/understanding-diversity-equity-and-inclusion",
-  "permalink": "/understanding-diversity-equity-and-inclusion",
+  "permalink": "/style-guide/understanding-diversity-equity-and-inclusion",
   "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/understanding-diversity-equity-and-inclusion.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Symmetry style guide: Writing about people with dignity",
-    "permalink": "/"
+    "permalink": "/style-guide/"
   },
   "next": {
     "title": "Some principles for writing about people with dignity",
-    "permalink": "/some-principles-for-writing-about-people-with-dignity"
+    "permalink": "/style-guide/some-principles-for-writing-about-people-with-dignity"
   }
 }

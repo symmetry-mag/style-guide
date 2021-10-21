@@ -1,53 +1,53 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/style-guide/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/style-guide/",
           "mainDocId": "introduction",
           "docs": [
             {
               "id": "guide-index",
-              "path": "/guide-index",
+              "path": "/style-guide/guide-index",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "introduction",
-              "path": "/",
+              "path": "/style-guide/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "references",
-              "path": "/references",
+              "path": "/style-guide/references",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "some-principles-for-writing-about-people-with-dignity",
-              "path": "/some-principles-for-writing-about-people-with-dignity",
+              "path": "/style-guide/some-principles-for-writing-about-people-with-dignity",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "understanding-diversity-equity-and-inclusion",
-              "path": "/understanding-diversity-equity-and-inclusion",
+              "path": "/style-guide/understanding-diversity-equity-and-inclusion",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "writing-about-aging-and-disability",
-              "path": "/writing-about-aging-and-disability",
+              "path": "/style-guide/writing-about-aging-and-disability",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "writing-about-culture-ethnicity-and-race",
-              "path": "/writing-about-culture-ethnicity-and-race",
+              "path": "/style-guide/writing-about-culture-ethnicity-and-race",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "writing-about-gender-sex-and-sexual-orientation",
-              "path": "/writing-about-gender-sex-and-sexual-orientation",
+              "path": "/style-guide/writing-about-gender-sex-and-sexual-orientation",
               "sidebar": "tutorialSidebar"
             }
           ]

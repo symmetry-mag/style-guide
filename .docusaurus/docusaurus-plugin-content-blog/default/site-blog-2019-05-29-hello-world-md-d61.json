@@ -1,5 +1,5 @@
 {
-  "permalink": "/blog/hello-world",
+  "permalink": "/style-guide/blog/hello-world",
   "source": "@site/blog/2019-05-29-hello-world.md",
   "title": "Hello",
   "description": "Welcome to this blog. This blog is created with Docusaurus 2.",
@@ -8,21 +8,21 @@
   "tags": [
     {
       "label": "hello",
-      "permalink": "/blog/tags/hello"
+      "permalink": "/style-guide/blog/tags/hello"
     },
     {
       "label": "docusaurus",
-      "permalink": "/blog/tags/docusaurus"
+      "permalink": "/style-guide/blog/tags/docusaurus"
     }
   ],
   "readingTime": 0.115,
   "truncated": true,
   "prevItem": {
     "title": "Welcome",
-    "permalink": "/blog/welcome"
+    "permalink": "/style-guide/blog/welcome"
   },
   "nextItem": {
     "title": "Hola",
-    "permalink": "/blog/hola"
+    "permalink": "/style-guide/blog/hola"
   }
 }

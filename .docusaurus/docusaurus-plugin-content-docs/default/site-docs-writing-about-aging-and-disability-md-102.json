@@ -7,7 +7,7 @@
   "source": "@site/docs/writing-about-aging-and-disability.md",
   "sourceDirName": ".",
   "slug": "/writing-about-aging-and-disability",
-  "permalink": "/writing-about-aging-and-disability",
+  "permalink": "/style-guide/writing-about-aging-and-disability",
   "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/writing-about-aging-and-disability.md",
   "version": "current",
   "sidebarPosition": 3,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Some principles for writing about people with dignity",
-    "permalink": "/some-principles-for-writing-about-people-with-dignity"
+    "permalink": "/style-guide/some-principles-for-writing-about-people-with-dignity"
   },
   "next": {
     "title": "Writing about gender, sex and sexual orientation",
-    "permalink": "/writing-about-gender-sex-and-sexual-orientation"
+    "permalink": "/style-guide/writing-about-gender-sex-and-sexual-orientation"
   }
 }

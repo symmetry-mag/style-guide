@@ -8,53 +8,53 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/"
+        "href": "/style-guide/"
       },
       {
         "type": "link",
         "label": "Understanding diversity, equity and inclusion",
-        "href": "/understanding-diversity-equity-and-inclusion"
+        "href": "/style-guide/understanding-diversity-equity-and-inclusion"
       },
       {
         "type": "link",
         "label": "Some principles for writing about people with dignity",
-        "href": "/some-principles-for-writing-about-people-with-dignity"
+        "href": "/style-guide/some-principles-for-writing-about-people-with-dignity"
       },
       {
         "type": "link",
         "label": "Writing about aging and disability",
-        "href": "/writing-about-aging-and-disability"
+        "href": "/style-guide/writing-about-aging-and-disability"
       },
       {
         "type": "link",
         "label": "Writing about gender, sex and sexual orientation",
-        "href": "/writing-about-gender-sex-and-sexual-orientation"
+        "href": "/style-guide/writing-about-gender-sex-and-sexual-orientation"
       },
       {
         "type": "link",
         "label": "Writing about culture, ethnicity and race",
-        "href": "/writing-about-culture-ethnicity-and-race"
+        "href": "/style-guide/writing-about-culture-ethnicity-and-race"
       },
       {
         "type": "link",
         "label": "References",
-        "href": "/references"
+        "href": "/style-guide/references"
       },
       {
         "type": "link",
         "label": "Index",
-        "href": "/guide-index"
+        "href": "/style-guide/guide-index"
       }
     ]
   },
   "permalinkToSidebar": {
-    "/guide-index": "tutorialSidebar",
-    "/": "tutorialSidebar",
-    "/references": "tutorialSidebar",
-    "/some-principles-for-writing-about-people-with-dignity": "tutorialSidebar",
-    "/understanding-diversity-equity-and-inclusion": "tutorialSidebar",
-    "/writing-about-aging-and-disability": "tutorialSidebar",
-    "/writing-about-culture-ethnicity-and-race": "tutorialSidebar",
-    "/writing-about-gender-sex-and-sexual-orientation": "tutorialSidebar"
+    "/style-guide/guide-index": "tutorialSidebar",
+    "/style-guide/": "tutorialSidebar",
+    "/style-guide/references": "tutorialSidebar",
+    "/style-guide/some-principles-for-writing-about-people-with-dignity": "tutorialSidebar",
+    "/style-guide/understanding-diversity-equity-and-inclusion": "tutorialSidebar",
+    "/style-guide/writing-about-aging-and-disability": "tutorialSidebar",
+    "/style-guide/writing-about-culture-ethnicity-and-race": "tutorialSidebar",
+    "/style-guide/writing-about-gender-sex-and-sexual-orientation": "tutorialSidebar"
   }
 }

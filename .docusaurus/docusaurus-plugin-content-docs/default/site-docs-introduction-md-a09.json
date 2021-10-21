@@ -7,7 +7,7 @@
   "source": "@site/docs/introduction.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/",
+  "permalink": "/style-guide/",
   "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/introduction.md",
   "version": "current",
   "sidebar_label": "Introduction",
@@ -20,6 +20,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Understanding diversity, equity and inclusion",
-    "permalink": "/understanding-diversity-equity-and-inclusion"
+    "permalink": "/style-guide/understanding-diversity-equity-and-inclusion"
   }
 }

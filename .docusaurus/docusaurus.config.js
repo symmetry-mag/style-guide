@@ -2,7 +2,7 @@ export default {
   "title": "Symmetry Style Guide",
   "tagline": "Writing about people with dignity",
   "url": "https://github.com/symmetry-mag",
-  "baseUrl": "/",
+  "baseUrl": "/style-guide/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",

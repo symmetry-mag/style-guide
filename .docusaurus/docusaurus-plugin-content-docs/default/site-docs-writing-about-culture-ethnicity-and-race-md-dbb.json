@@ -7,7 +7,7 @@
   "source": "@site/docs/writing-about-culture-ethnicity-and-race.md",
   "sourceDirName": ".",
   "slug": "/writing-about-culture-ethnicity-and-race",
-  "permalink": "/writing-about-culture-ethnicity-and-race",
+  "permalink": "/style-guide/writing-about-culture-ethnicity-and-race",
   "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/writing-about-culture-ethnicity-and-race.md",
   "version": "current",
   "sidebarPosition": 5,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Writing about gender, sex and sexual orientation",
-    "permalink": "/writing-about-gender-sex-and-sexual-orientation"
+    "permalink": "/style-guide/writing-about-gender-sex-and-sexual-orientation"
   },
   "next": {
     "title": "References",
-    "permalink": "/references"
+    "permalink": "/style-guide/references"
   }
 }

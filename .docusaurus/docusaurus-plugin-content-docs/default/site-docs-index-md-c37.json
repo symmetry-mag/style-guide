@@ -7,7 +7,7 @@
   "source": "@site/docs/index.md",
   "sourceDirName": ".",
   "slug": "/guide-index",
-  "permalink": "/guide-index",
+  "permalink": "/style-guide/guide-index",
   "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/index.md",
   "version": "current",
   "sidebarPosition": 7,
@@ -18,6 +18,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "References",
-    "permalink": "/references"
+    "permalink": "/style-guide/references"
   }
 }

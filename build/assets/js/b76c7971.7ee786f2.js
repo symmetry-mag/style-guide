@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksymmetry=self.webpackChunksymmetry||[]).push([[28],{21:function(e){e.exports=JSON.parse('{"allTagsPath":"/style-guide/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/style-guide/blog/tags/hola"}')}}]);
