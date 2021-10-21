@@ -1,0 +1,23 @@
+{
+  "unversionedId": "guide-index",
+  "id": "guide-index",
+  "isDocsHomePage": false,
+  "title": "Index",
+  "description": "AAPI: see Asian",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/guide-index",
+  "permalink": "/guide-index",
+  "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/index.md",
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "guide-index",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "References",
+    "permalink": "/references"
+  }
+}

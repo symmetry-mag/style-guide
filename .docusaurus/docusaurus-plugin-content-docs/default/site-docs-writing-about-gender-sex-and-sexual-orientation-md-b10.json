@@ -1,0 +1,26 @@
+{
+  "unversionedId": "writing-about-gender-sex-and-sexual-orientation",
+  "id": "writing-about-gender-sex-and-sexual-orientation",
+  "isDocsHomePage": false,
+  "title": "Writing about gender, sex and sexual orientation",
+  "description": "This section of the style guide is meant to help writers respectfully and accurately cover subjects related to gender, sex and sexual orientation. These topics won’t always be relevant in an article, but when they are, it’s important to write about them with care.",
+  "source": "@site/docs/writing-about-gender-sex-and-sexual-orientation.md",
+  "sourceDirName": ".",
+  "slug": "/writing-about-gender-sex-and-sexual-orientation",
+  "permalink": "/writing-about-gender-sex-and-sexual-orientation",
+  "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/writing-about-gender-sex-and-sexual-orientation.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Writing about aging and disability",
+    "permalink": "/writing-about-aging-and-disability"
+  },
+  "next": {
+    "title": "Writing about culture, ethnicity and race",
+    "permalink": "/writing-about-culture-ethnicity-and-race"
+  }
+}

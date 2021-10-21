@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "guide-index",
+              "path": "/guide-index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "references",
+              "path": "/references",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "some-principles-for-writing-about-people-with-dignity",
+              "path": "/some-principles-for-writing-about-people-with-dignity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "understanding-diversity-equity-and-inclusion",
+              "path": "/understanding-diversity-equity-and-inclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-about-aging-and-disability",
+              "path": "/writing-about-aging-and-disability",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-about-culture-ethnicity-and-race",
+              "path": "/writing-about-culture-ethnicity-and-race",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "writing-about-gender-sex-and-sexual-orientation",
+              "path": "/writing-about-gender-sex-and-sexual-orientation",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "some-principles-for-writing-about-people-with-dignity",
+  "id": "some-principles-for-writing-about-people-with-dignity",
+  "isDocsHomePage": false,
+  "title": "Some principles for writing about people with dignity",
+  "description": "Writing about people with dignity involves more than just using the “right” words. In the article “Beyond Terminology",
+  "source": "@site/docs/some-principles-for-writing-about-people-with-dignity.md",
+  "sourceDirName": ".",
+  "slug": "/some-principles-for-writing-about-people-with-dignity",
+  "permalink": "/some-principles-for-writing-about-people-with-dignity",
+  "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/some-principles-for-writing-about-people-with-dignity.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Understanding diversity, equity and inclusion",
+    "permalink": "/understanding-diversity-equity-and-inclusion"
+  },
+  "next": {
+    "title": "Writing about aging and disability",
+    "permalink": "/writing-about-aging-and-disability"
+  }
+}

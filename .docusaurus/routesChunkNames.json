@@ -1,0 +1,126 @@
+{
+  "/blog-de8": {
+    "component": "a6aa9e1f",
+    "sidebar": "81324f28",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      },
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "b2b675dd"
+  },
+  "/blog/hello-world-60e": {
+    "component": "ccc49370",
+    "sidebar": "81324f28",
+    "content": "d610846f"
+  },
+  "/blog/hola-3f3": {
+    "component": "ccc49370",
+    "sidebar": "81324f28",
+    "content": "bdd709f1"
+  },
+  "/blog/tags-32a": {
+    "component": "01a85c17",
+    "sidebar": "81324f28",
+    "tags": "a7023ddc"
+  },
+  "/blog/tags/docusaurus-1a8": {
+    "component": "6875c492",
+    "sidebar": "81324f28",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      },
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "a80da1cf"
+  },
+  "/blog/tags/facebook-868": {
+    "component": "6875c492",
+    "sidebar": "81324f28",
+    "items": [
+      {
+        "content": "af172acd"
+      }
+    ],
+    "metadata": "031793e1"
+  },
+  "/blog/tags/hello-412": {
+    "component": "6875c492",
+    "sidebar": "81324f28",
+    "items": [
+      {
+        "content": "af172acd"
+      },
+      {
+        "content": "3570154c"
+      }
+    ],
+    "metadata": "30a24c52"
+  },
+  "/blog/tags/hola-815": {
+    "component": "6875c492",
+    "sidebar": "81324f28",
+    "items": [
+      {
+        "content": "8e9f0a8a"
+      }
+    ],
+    "metadata": "e16015ca"
+  },
+  "/blog/welcome-23f": {
+    "component": "ccc49370",
+    "sidebar": "81324f28",
+    "content": "2868cdab"
+  },
+  "/search-5cb": {
+    "component": "5d2bee46"
+  },
+  "/-176": {
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
+  },
+  "/-77c": {
+    "component": "17896441",
+    "content": "a09c2993"
+  },
+  "/guide-index-74a": {
+    "component": "17896441",
+    "content": "c377a04b"
+  },
+  "/references-19e": {
+    "component": "17896441",
+    "content": "33a69f45"
+  },
+  "/some-principles-for-writing-about-people-with-dignity-a3b": {
+    "component": "17896441",
+    "content": "d79a06b9"
+  },
+  "/understanding-diversity-equity-and-inclusion-b8e": {
+    "component": "17896441",
+    "content": "cb56fc5e"
+  },
+  "/writing-about-aging-and-disability-729": {
+    "component": "17896441",
+    "content": "102957a9"
+  },
+  "/writing-about-culture-ethnicity-and-race-b9e": {
+    "component": "17896441",
+    "content": "dbb52a89"
+  },
+  "/writing-about-gender-sex-and-sexual-orientation-b81": {
+    "component": "17896441",
+    "content": "b10d3963"
+  }
+}

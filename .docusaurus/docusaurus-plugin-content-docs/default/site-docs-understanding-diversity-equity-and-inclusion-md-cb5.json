@@ -1,0 +1,26 @@
+{
+  "unversionedId": "understanding-diversity-equity-and-inclusion",
+  "id": "understanding-diversity-equity-and-inclusion",
+  "isDocsHomePage": false,
+  "title": "Understanding diversity, equity and inclusion",
+  "description": "First, read about some important related terms:",
+  "source": "@site/docs/understanding-diversity-equity-and-inclusion.md",
+  "sourceDirName": ".",
+  "slug": "/understanding-diversity-equity-and-inclusion",
+  "permalink": "/understanding-diversity-equity-and-inclusion",
+  "editUrl": "https://github.com/symmetry-mag/style-guide/tree/documentation/docs/understanding-diversity-equity-and-inclusion.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Symmetry style guide: Writing about people with dignity",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Some principles for writing about people with dignity",
+    "permalink": "/some-principles-for-writing-about-people-with-dignity"
+  }
+}
