@@ -1,6 +1,8 @@
-import React from 'react';
-import {Redirect} from '@docusaurus/router';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
-
-return <Redirect to="/docs/index" />;
-
+function toIndex() {
+   React.useEffect(() => {
+      window.location.href = useBaseUrl('/docs/index');
+   }, []);
+   return null;
+}
