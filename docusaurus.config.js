@@ -6,7 +6,7 @@ module.exports = {
   title: 'Symmetry Style Guide',
   tagline: 'Writing about people with dignity',
   url: 'https://github.com/symmetry-mag',
-  baseUrl: '/', //'/style-guide/',
+  baseUrl: '/style-guide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
