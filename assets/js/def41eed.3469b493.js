@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksymmetry=self.webpackChunksymmetry||[]).push([[188],{2255:function(s){s.exports=JSON.parse('{"allTagsPath":"/style-guide/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/style-guide/blog/tags/docusaurus"}')}}]);
