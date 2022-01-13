@@ -16,6 +16,8 @@ sidebar_position: 8
   
 [Middle East/MENA](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#middle-eastmena): Added the paragraph: The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities) recommends: "When writing about people of Middle Eastern and North African (MENA) descent, state the nation of origin (e.g., Iran, Iraq, Egypt, Lebanon, Israel) when possible. In some cases, people of MENA descent who claim Arab ancestry and reside in the United States may be referred to as 'Arab Americans.' In all cases, it is best to allow individuals to self-identify." Added APA Style to [references](https://symmetry-mag.github.io/style-guide/references#references-for-writing-about-culture-ethnicity-and-race).  
   
+[race](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race#race): Added the paragraph: The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities) recommends against using "nonparallel designations" (by, for example, grouping or comparing "African Amercans and Whites" or "Asian Americans and Black Americans"), as "one group is described by color, whereas the other group is not."
+  
 [transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender) and [references](https://symmetry-mag.github.io/style-guide/references/#references-for-writing-about-gender-sex-and-sexual-orientation): Updated link to [The Trans Language Primer](https://translanguageprimer.com/)  
   
   
