@@ -9,6 +9,6 @@ sidebar_position: 8
 
 ---
 
-01.13.22
+01.13.22  
 [transgender](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#transgender): Updated link to [The Trans Language Primer](https://translanguageprimer.com/)
 
