@@ -10,7 +10,7 @@ sidebar_position: 8
 ---
 
 01.13.22  
-[aging](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#aging): Added new paragraph: The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/age) advises: "Do not use language that implies that all older adults are experiencing perceptual or cognitive decline or have health problems, or that all older adults are frail." If you *are* writing about an individual with dimentia, APA recommends against using the word 'senile,' which it describes as "an outdated term with no agreed-upon meaning." APA says to "specify the type of dementia when known (e.g., dementia due to Alzheimer’s disease)."  
+[aging](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#aging): Added new paragraph: The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/age) advises: "Do not use language that implies that all older adults are experiencing perceptual or cognitive decline or have health problems, or that all older adults are frail." If you *are* writing about an individual with dementia, APA recommends against using the word 'senile,' which it describes as "an outdated term with no agreed-upon meaning." APA says to "specify the type of dementia when known (e.g., dementia due to Alzheimer’s disease)."  
   
 Added APA Style to [References for writing about aging and disability](https://symmetry-mag.github.io/style-guide/references#references-for-writing-about-aging-and-disability).
   
