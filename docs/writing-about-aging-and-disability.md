@@ -25,7 +25,7 @@ In its [*Media Takes: On Aging*](https://www.issuelab.org/resources/11981/11981.
 - Avoiding describing older adults with patronizing adjectives such as *feisty, spry, sweet, little, feeble, eccentric, senile, grandmotherly,* etc. Do not describe someone as “80 years *young*.”
 - Refer to individuals living in nursing homes as *residents*, as opposed to *patients*.  
   
-The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/age) advises: "Do not use language that implies that all older adults are experiencing perceptual or cognitive decline or have health problems, or that all older adults are frail." If you *are* writing about an individual with dimentia, APA recommends against using the word 'senile,' which it describes as "an outdated term with no agreed-upon meaning." APA says to "specify the type of dementia when known (e.g., dementia due to Alzheimer’s disease)."
+The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/age) advises: "Do not use language that implies that all older adults are experiencing perceptual or cognitive decline or have health problems, or that all older adults are frail." If you *are* writing about an individual with dementia, APA recommends against using the word 'senile,' which it describes as "an outdated term with no agreed-upon meaning." APA says to "specify the type of dementia when known (e.g., dementia due to Alzheimer’s disease)."
 
 
 ### disabled
