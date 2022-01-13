@@ -58,7 +58,7 @@ Kapitan, Alex. “The Radical Copyeditor’s Style Guide for Writing About Trans
  
 Shelley, Crystal. "Gender and Inclusive Language." Rabbit with a Red Pen, 11 January 2021, [https://www.rabbitwitharedpen.com/blog/gender-and-inclusive-language](https://www.rabbitwitharedpen.com/blog/gender-and-inclusive-language)
 
-Simon, Greyson, et. al. *The Trans Language Primer*, accessed 1 May 2021, [https://www.translanguageprimer.org/primer](https://www.translanguageprimer.org/primer)
+Simon, Greyson, et. al. *The Trans Language Primer*, accessed 1 May 2021, [https://translanguageprimer.com/](https://translanguageprimer.com/)
 
 “Stylebook.” The Association of LGBTQ Journalists, accessed 8 February 2021, [https://www.nlgja.org/stylebook/terminology/](https://www.nlgja.org/stylebook/terminology/)
  
