@@ -141,7 +141,7 @@ The [National Association of Black Journalists](https://www.nabj.org/page/styleg
 
 ### dual heritage, compound nationalities/ethnicities
 
-Do not hyphenate terms such as *African American* or *Asian American* when using them as a noun. As former *Los Angeles Times* style book overseer Henry Fuhrmann writes for Conscious Style Guide, using a hyphen “in racial and ethnic identifiers can connote an otherness, a sense that people of color are somehow not fully citizens or fully American.” The phrase *hyphenated Americans* was once a commonly used derogatory term.
+Do not hyphenate terms such as *African American* or *Asian American* when using them as a noun or adjective. As former *Los Angeles Times* style book overseer Henry Fuhrmann writes for [Conscious Style Guide](https://consciousstyleguide.com/drop-hyphen-asian-american/), using a hyphen “in racial and ethnic identifiers can connote an otherness, a sense that people of color are somehow not fully citizens or fully American.” The phrase *hyphenated Americans* was once a commonly used derogatory term.
 
 
 ### Filipino/Pilipino
