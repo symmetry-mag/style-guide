@@ -9,6 +9,8 @@ sidebar_position: 6
 
 ## References for writing about aging and disability
 
+"Age." APA Style, accessed 13 January 2022, [https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/age](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/age)
+
 Brown, Lydia X. Z. "Glossary of Ableist Phrases." Autistic Hoya, 27 February 2021, [https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html)
 
 Cohen-Rottenberg, Rachel. "Doing Social Justice: Thoughts on Ableist Language and Why It Matters." Disability and Representation, 14 September 2013, [http://www.disabilityandrepresentation.com/2013/09/14/ableist-language/](http://www.disabilityandrepresentation.com/2013/09/14/ableist-language/)
