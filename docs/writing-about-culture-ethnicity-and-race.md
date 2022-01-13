@@ -187,7 +187,9 @@ According to the [*AP Styleguide*](https://www.apstylebook.com/ap_stylebook/midd
 
 The AP does not use the acronym *MENA*. [*The Diversity Style Guide*](https://www.diversitystyleguide.com/glossary/mena-middle-eastern-or-north-african/) defines *MENA* as an “[a]bbreviation for the region known as the Middle East and North Africa.” [The Office of the United States Trade Representative](https://ustr.gov/countries-regions/europe-middle-east/middle-east/north-africa#:~:text=MENA%20countries%20consist%20of%20Algeria,United%20Arab%20Emirates%20and%20Yemen.) counts as part of *MENA* Algeria, Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Qatar, Saudi Arabia, Syria, Tunisia, United Arab Emirates and Yemen.
 
-*The Diversity Style Guide* says: “People of MENA descent can mark ‘White, including Middle Eastern’ or ‘some other race’ on [U.S.] Census forms. Use *Middle Eastern or North African descent* on first reference.” (see: [**White**](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#white))
+*The Diversity Style Guide* says: “People of MENA descent can mark ‘White, including Middle Eastern’ or ‘some other race’ on [U.S.] Census forms. Use *Middle Eastern or North African descent* on first reference.” (see: [**White**](https://symmetry-mag.github.io/style-guide/writing-about-culture-ethnicity-and-race/#white))  
+
+The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities) recommends: "When writing about people of Middle Eastern and North African (MENA) descent, state the nation of origin (e.g., Iran, Iraq, Egypt, Lebanon, Israel) when possible. In some cases, people of MENA descent who claim Arab ancestry and reside in the United States may be referred to as 'Arab Americans.' In all cases, it is best to allow individuals to self-identify."  
 
 
 ### migration
