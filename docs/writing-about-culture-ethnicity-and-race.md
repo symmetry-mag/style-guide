@@ -51,7 +51,7 @@ A *social construction*, according to the YWCA, is “[a]n unreal ‘real’ thi
 
 Those consequences come from *racialization*, which YWCA defines as “[t]he ongoing process by which we all are shaped by racial grouping or ‘racialized’ by structural policies/practices, institutional/organizational cultures, and interpersonal interactions.” [Race Forward](https://www.raceforward.org/sites/default/files/Race%20Reporting%20Guide%20by%20Race%20Forward_V1.1.pdf)’s guide mentions that “[h]ow one is racialized is a major determinant of one’s socioeconomic status and life opportunities.” *Racialization* does not seem to be in many style guides, so do not assume readers know what it means.  
   
-The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities) recommends against using "nonparallel designations," by for example grouping or comparing "African Amercans and Whites" or "Asian Americans and Black Americans," as "one group is described by color, whereas the other group is not." 
+The [American Psychological Association](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities) recommends against using "nonparallel designations" (by, for example, grouping or comparing "African Amercans and Whites" or "Asian Americans and Black Americans"), as "one group is described by color, whereas the other group is not." 
   
   
 ### racism
