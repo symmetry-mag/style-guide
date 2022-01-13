@@ -122,7 +122,9 @@ Plaid, Andrea and MacDonald-Dennis, Christopher. “‘BIPOC’ Isn’t Doing Wh
 “Race-Related Coverage.” AP Stylebook, accessed 8 February 2021, [https://www.apstylebook.com/ap_stylebook/race-related-coverage](https://www.apstylebook.com/ap_stylebook/race-related-coverage)
  
 “Race Reporting Guide” [PDF]. Race Forward, accessed 8 February 2021, [https://www.raceforward.org/sites/default/files/Race%20Reporting%20Guide%20by%20Race%20Forward_V1.1.pdf](https://www.raceforward.org/sites/default/files/Race%20Reporting%20Guide%20by%20Race%20Forward_V1.1.pdf)
- 
+  
+"Racial and Ethnic Identity." APA Style, accessed 13 January 2022, [https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities](https://apastyle.apa.org/style-grammar-guidelines/bias-free-language/racial-ethnic-minorities)  
+  
 “Reporting and Indigenous Terminology” [PDF]. Native American Journalists Association, accessed 8 February 2021, [https://najanewsroom.com/wp-content/uploads/2018/11/NAJA_Reporting_and_Indigenous_Terminology_Guide.pdf](https://najanewsroom.com/wp-content/uploads/2018/11/NAJA_Reporting_and_Indigenous_Terminology_Guide.pdf)
  
 Stamper, Kory. “Why We Confuse *Race* and *Ethnicity*: A Lexicographer’s Perspective.” Conscious Style Guide, 13 February 2019, [https://consciousstyleguide.com/why-we-confuse-race-ethnicity-lexicographers-perspective/](https://consciousstyleguide.com/why-we-confuse-race-ethnicity-lexicographers-perspective/)
