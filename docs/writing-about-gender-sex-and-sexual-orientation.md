@@ -224,7 +224,7 @@ The [GLAAD glossary](https://www.glaad.org/reference/transgender) says: “Many 
 
 [The Radical Copyeditor](https://radicalcopyeditor.com/2017/08/31/transgender-style-guide/) points out that *transgender* is not a sexual orientation (so don’t use *straight* or *heterosexual* as an antonym). Kapitan also points out that some transgender people are nonbinary (so say *transgender people* or *people of all genders* rather than *transgender women and men*).
 
-For more related terms, see The [Trans Language Primer](https://www.translanguageprimer.org/primer).
+For more related terms, see The [Trans Language Primer](https://translanguageprimer.com/).
 
 
 ### transition
