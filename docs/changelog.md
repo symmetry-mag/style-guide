@@ -8,7 +8,7 @@ sidebar_position: 8
 *Running list of updates to the style guide*
 
 ---
-03.29.22  
+03.29.22    
 [pronouns](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#pronouns): Added new paragraph: [GLAAD](https://www.glaad.org/reference/transgender) points out: "Some people may use both a gendered pronoun and they/them. For example, 'My name is Jose and I use he/they pronouns.' People who use multiple pronouns may wish you to choose one of those pronouns and use it consistently, or they may wish you to use both pronouns interchangeably when referring to them. For example, 'Jose is an excellent co-worker. He always turns in projects on deadline, and they also volunteer to organize the office holiday party every year.'" 
 
 01.13.22  
