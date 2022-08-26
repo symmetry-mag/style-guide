@@ -31,6 +31,8 @@ Dahmen, Nicole S. and Cozma, Raluca, Editors. “Media Takes: On Aging” [PDF].
 
 “Q&A: ADD vs. ADHD. What’s the Difference?” Children and Adults with Attention-Deficit/Hyperactivity Disorder, accessed 1 May 2021, [https://chadd.org/adhd-weekly/qa-add-vs-adhd-whats-the-difference/](https://chadd.org/adhd-weekly/qa-add-vs-adhd-whats-the-difference/)
 
+Rajkumar, Shruti. "How to talk about disability sensitively and avoid ableist tropes," NPR, 8 August 2022, [https://www.npr.org/2022/08/08/1115682836/how-to-talk-about-disability-sensitively-and-avoid-ableist-tropes](https://www.npr.org/2022/08/08/1115682836/how-to-talk-about-disability-sensitively-and-avoid-ableist-tropes)
+
 “Sharing Your Story Publicly.” National Eating Disorders Association, accessed 8 February 2021,  [https://www.nationaleatingdisorders.org/community/sharing-your-story-responsibly](https://www.nationaleatingdisorders.org/community/sharing-your-story-responsibly)
  
 “The Carter Center Journalism Resource Guide on Behavioral Health” [PDF]. The Carter Center, accessed 8 February 2021, [https://www.cartercenter.org/resources/pdfs/health/mental_health/2015-journalism-resource-guide-on-behavioral-health.pdf](https://www.cartercenter.org/resources/pdfs/health/mental_health/2015-journalism-resource-guide-on-behavioral-health.pdf)
