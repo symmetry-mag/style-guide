@@ -6,7 +6,7 @@ slug: /
 
 # Symmetry style guide: Writing about people with dignity
 
-*by Kathryn Jepsen, last updated [03.29.22](https://symmetry-mag.github.io/style-guide/Changelog)*
+*by Kathryn Jepsen, last updated [08.26.22](https://symmetry-mag.github.io/style-guide/Changelog)*
 
 ---
 
