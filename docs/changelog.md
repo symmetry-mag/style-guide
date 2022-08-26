@@ -8,6 +8,11 @@ sidebar_position: 8
 *Running list of updates to the style guide*
 
 ---
+08.26.22
+[disability](https://symmetry-mag.github.io/style-guide/writing-about-aging-and-disability#disability): Added new paragraph: In an [interview with NPR](https://www.npr.org/2022/08/08/1115682836/how-to-talk-about-disability-sensitively-and-avoid-ableist-tropes?fbclid=IwAR0npAym0rsv7_v4n_X_nBWo4uFdvdOEkauPb4pOKUr2V7QgiQHco9VWihY), Cara Reedy, the director and founder of the Disabled Journalists Association, and Rosemary McDonnell-Horita of LaVant Consulting, a disability-focused communications firm, advise writers to avoid inspirational narratives about people "overcoming" their disabilities. McDonnell-Horita explains in the article, "It's not really necessarily my disability that I've had to overcome. It's the negative attitudes and stereotypes that come with being a disabled person. That is more exhausting." Instead, Reedy and McDonnell-Horita say, articles related to disability should center the voices of disabled people; "recognize that disability is a culture and an identity, not a problem"; and consider the diversity of experiences of disability, as "[d]isability crosses every other community and marginalized identity group."
+
+Added "How to talk about disability sensitively and avoid ableist tropes" to [References for writing about aging and disability](https://symmetry-mag.github.io/style-guide/references#references-for-writing-about-aging-and-disability).
+
 03.29.22     
 [pronouns](https://symmetry-mag.github.io/style-guide/writing-about-gender-sex-and-sexual-orientation/#pronouns): Added new paragraph: The [GLAAD Media Reference Guide - Transgender](https://www.glaad.org/reference/transgender) points out: "Some people may use both a gendered pronoun and they/them. For example, 'My name is Jose and I use he/they pronouns.' People who use multiple pronouns may wish you to choose one of those pronouns and use it consistently, or they may wish you to use both pronouns interchangeably when referring to them. For example, 'Jose is an excellent co-worker. He always turns in projects on deadline, and they also volunteer to organize the office holiday party every year.'" 
 
